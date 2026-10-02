@@ -10,7 +10,7 @@
 
 **A Cinematic, Ultra-Modern Web Devotional Music Experience Dedicated to Chhathi Maiya & Lord Surya Dev**
 
-[About](#-about-the-project) • [Description](#-project-description) • [Key Features](#-key-features) • [Artists Catalog](#-verified-singers--bhajans-catalog) • [Keyboard Shortcuts](#-keyboard-shortcuts) • [Tech Stack](#%EF%B8%8F-technology-stack) • [Installation](#-quick-start--installation) • [Author](#-author--dedication)
+[About](#-about-the-project) • [Description](#-project-description) • [Key Features](#-key-features) • [Keyboard Shortcuts](#-keyboard-shortcuts) • [Tech Stack](#%EF%B8%8F-technology-stack) • [Installation](#-quick-start--installation) • [Author](#-author--dedication)
 
 ---
 
@@ -79,31 +79,6 @@ The **Chhath Puja Sacred Devotional Music Player** is a single-page progressive 
 - Volume slider with persistent memory and 1-click mute/unmute.
 - Loop modes: Repeat All, Repeat One, and Loop Off.
 - Smart Shuffle mode for endless devotional playlists.
-
----
-
-## 🎤 Verified Singers & Bhajans Catalog
-
-| Singer / Artist (गायक) | Verified Tracks | Iconic Bhajans Included |
-|---|:---:|---|
-| **शारदा सिन्हा (Sharda Sinha)** | **17** | *पहिले पहिल हम कईनी, केलवा के पात पर, हो दीनानाथ, दुखवा मिटाईं छठी मईया, उठउ सूरज भईल भिनसरवा, जोड़े जोड़े सुपवा, काँच ही बाँस के बहंगिया, बाँझी केवड़वा धईले ठाढ़* |
-| **पवन सिंह (Pawan Singh)** | **15** | *कवना कलमवाँ से लिखलऽ, जोड़े जोड़े फलवा, उगी सुरुज देव, छठी माई के घाटवा पे आजन बाजन, जय छठी मईया, छठ करब हम जरूर, धनिया हमार नया बाड़ी, धनिया में पनिया* |
-| **खेसारी लाल यादव (Khesari Lal)** | **14** | *छठ माई के बरतिया, छठ घाटे चली, घूँटी भर मोर धोती भीजे, नारियल, परी खातिर पियरी पिया, सुरुज बाबा, बिहारी पिया, छपरा मे छठ मनाएंगे* |
-| **अनुराधा पौडवाल (Anuradha Paudwal)** | **15** | *काँच ही बाँस के बहंगिया, उगs हे सूरज देव, मारबो रे सुगवा धनुख से, सोने के खड़उआँ हे दीनानाथ, सोने के कटोरिया, अरघ के बेर* |
-| **शिल्पी राज (Shilpi Raj)** | **9** | *चननी तनाए लागल, आहे देव कवन देव, खोली नजरिया, बहंगी लचकत जाए, जुगे जुगे रही एहवात, करेलु छठ बरतिया* |
-| **मनोज तिवारी (Manoj Tiwari)** | **8** | *छठी मईया के दिहल ललनवा, दउरा लिहलीं सजाय, छठ मईया हो सबकर, जय छठ मईया, कहाँ पइबो झलरी ओहार* |
-| **कल्पना पटवारी (Kalpana Patowary)** | **6** | *कर एक बार छठ त्योहार, उगी हे दीनानाथ, दर्शन देखाई दीही, Devo Chhath Uga Hey Surujdev, काठ के रे नइया* |
-| **अंजलि भारद्वाज (Anjali Bhardwaj)** | **5** | *हिट्स ऑफ अंजलि भारद्वाज, ऐ माई भूख जाई छठ के परबिया, चलले महादेव, ए माई भूख जा छठ के बरतिया, सात ही घोड़वा सूरुज देव* |
-| **प्रमोद प्रेमी यादव (Pramod Premi)** | **5** | *के असो घाट प दउरा पहुँचायी, दउरा उठाबा माथ पS, छठ करब नईहरे, खरना से धरना देले बाड़ी* |
-| **आशीष यादव (Aashish Yadav)** | **5** | *गरीब के छठ, केकर घर के फुलवा, अरमानी, करबो छठ के बरतिया, माई भुखल छठ* |
-| **मैथिली ठाकुर (Maithili Thakur)** | **5** | *सोना सुरुजदेव, सोना सतकुनिया हो दीनानाथ, बाजन बाजे शहनैय्या, उगी हे दीनानाथ, पटना के घाट पर* |
-| **अनु दुबे (Anu Dubey)** | **4** | *कहवाँ पइबो सोने के कटरवा, कोपी कोपी बोलेली छठी मईया, सवा लाख के साड़ी भीजे, मोरा भईया जायेला* |
-| **स्वाति मिश्रा (Swati Mishra)** | **4** | *करे माई कठिन बरतिया, उगी हे दीनानाथ, जोड़े जोड़े फलवा सुरुज देव, स्वाति मिश्रा छठ संग्रह* |
-| **अक्षरा सिंह (Akshara Singh)** | **4** | *छठी मैया, का करि दीनानाथ, काँच ही बांस के बहंगिया, फुटी फुटी रोवे निरधनिया* |
-| **रितेश पांडे (Ritesh Pandey)** | **4** | *छठ करे आई, करेलु छठ बरतिया, कातिक मास छठ करs धनिया, लालकी किरिनिया* |
-| **अरविन्द अकेला कल्लू (Kallu)** | **3** | *चाही नाही अन धन खजनवा, करा तानी पहिला बरतिया, स्टारों का छठ* |
-| **विशाल मिश्रा (Vishal Mishra)** | **1** | *छठी मईया बुलाये (Chhathi Maiya Bulaye)* |
-| **पूनम मिश्रा (Poonam Mishra)** | **1** | *गाम के अधिकारी तोहें बड़का भैया हो* |
 
 ---
 

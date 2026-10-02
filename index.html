@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>छठ पूजा • Chhath Puja | Created by Uday Raj</title>
+  <meta name="description"
+    content="Experience 500 timeless Chhath Puja songs by Sharda Sinha, Pawan Singh, Khesari Lal Yadav, Pramod Premi, Shilpi Raj, Anu Dubey, Aashish Yadav, Anjali Bhardwaj, Kalpana Patowary, Anuradha Paudwal, and top artists. Created with devotion by Uday Raj.">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Fira+Code:wght@400;500;600&family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+Devanagari:wght@600;700;800;900&family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,400;1,600&display=swap"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="view-evening">
+  <!-- Dynamic Cinematic Background Layers -->
+  <div class="bg-wrapper" aria-hidden="true">
+    <div class="ghat-bg-layer ghat-morning" id="bg-morning"></div>
+    <div class="ghat-bg-layer ghat-evening" id="bg-evening"></div>
+
+    <!-- Atmospheric Lighting & Sacred Diya Glow -->
+    <div class="diya-glow-container">
+      <div class="glow-orb orb-primary"></div>
+      <div class="glow-orb orb-secondary"></div>
+      <div class="glow-orb orb-tertiary"></div>
+      <div class="flame-aurora"></div>
+      <div class="water-radiance"></div>
+    </div>
+
+    <!-- Floating Ember & Spark Particles Canvas -->
+    <canvas id="particles-canvas"></canvas>
+
+    <!-- Cinematic Vignette -->
+    <div class="vignette-overlay"></div>
+  </div>
+
+  <!-- Top Ambient Header / Navigation -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand-group">
+        <div class="brand-symbol">
+          <img src="sacred_deep.jpg" alt="Sacred Diya" class="header-deep-thumb">
+        </div>
+        <div class="brand-text">
+          <div class="brand-title-row">
+            <h1 class="brand-title">छठ पूजा <span class="brand-divider">•</span> Chhath Puja</h1>
+            <span class="creator-badge">✨ Created by <strong>Uday Raj</strong></span>
+          </div>
+          <span class="brand-badge"><span class="pulse-dot"></span> 500 Sacred Anthems • Top Chhath Singers </span>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <!-- Hide / Show Player Toggle Button -->
+        <button id="btn-header-toggle-player" class="glass-btn player-toggle-header-btn" title="Hide or Show Player (H)">
+          <span class="btn-icon">🎵</span>
+          <span class="btn-text">Hide Player</span>
+        </button>
+
+        <!-- Hide / Show Playlist Toggle Button -->
+        <button id="btn-header-toggle-playlist" class="glass-btn playlist-toggle-header-btn" title="Hide or Show Playlist (P)">
+          <span class="btn-icon">📜</span>
+          <span class="btn-text">Hide Playlist</span>
+        </button>
+
+        <!-- Morning / Evening View Switcher -->
+        <button id="view-toggle-btn" class="glass-btn view-toggle-btn"
+          aria-label="Toggle between Morning and Evening Ghat View" title="Toggle Morning / Evening View (T)">
+          <span class="view-icon" id="view-icon">🌆</span>
+          <span class="view-label" id="view-label">Evening View</span>
+          <span class="view-switch-pill"><span class="pill-slider"></span></span>
+        </button>
+
+        <!-- Cinema / Zen Mode (Hide all UI) -->
+        <button id="btn-zen-mode" class="glass-btn icon-btn" title="Hide All UI / Ghat Cinema View (Z)" aria-label="Cinema Mode">
+          <span id="zen-icon">👁️</span>
+        </button>
+
+        <!-- Keyboard Shortcuts Trigger -->
+        <button id="shortcuts-btn" class="glass-btn icon-btn" aria-label="Keyboard Shortcuts" title="Keyboard Shortcuts (Press ?)">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="4" width="20" height="16" rx="2" ry="2"></rect>
+            <path d="M6 8h.001M10 8h.001M14 8h.001M18 8h.001M8 12h.001M12 12h.001M16 12h.001M7 16h10"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section" aria-label="Chhath Puja Devotional Title">
+    <div class="hero-content">
+      <div class="hero-typography">
+        <p class="hero-line-1">My view vs my mind</p>
+        <p class="hero-line-2">Counting days to</p>
+        <h2 class="hero-line-3">छठ पूजा</h2>
+      </div>
+
+      <!-- Creator Dedication Ribbon -->
+      <div class="hero-creator-ribbon">
+        <span class="ribbon-sparkle">🪔</span>
+        <span class="ribbon-text">Dedicated with sacred faith & devotion by <strong class="creator-highlight">Uday
+            Raj</strong></span>
+        <span class="ribbon-sparkle">☀️</span>
+      </div>
+
+      <!-- Sacred Ritual Auspicious Chips -->
+      <div class="hero-auspicious-bar">
+        <span class="phase-chip">🌅 उषा अर्घ्य (Morning Arghya)</span>
+        <span class="phase-chip">🌆 संध्या अर्घ्य (Sandhya Arghya)</span>
+        <span class="phase-chip">🎋 काँच ही बाँस के बहंगिया</span>
+        <span class="phase-chip">🪔 500 Top Sacred Geets</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content Grid -->
+  <main class="player-layout">
+    <!-- Left Column: Master Now Playing Card -->
+    <section class="player-column">
+      <article class="glass-card now-playing-card" id="now-playing-card">
+        <div class="card-ambient-glow"></div>
+
+        <!-- Player Card Top Bar with Mode Switcher & Hide Button -->
+        <div class="player-card-header-bar">
+          <div class="player-view-mode-tabs" role="tablist" aria-label="Player view mode">
+            <button id="tab-disc-mode" class="player-view-tab active" role="tab" aria-selected="true"
+              title="Sacred Diya Disc View (V)">
+              <span class="tab-icon">🪔</span>
+              <span>Sacred Diya</span>
+            </button>
+            <button id="tab-video-mode" class="player-view-tab" role="tab" aria-selected="false"
+              title="Watch Video in Iframe Format (V)">
+              <span class="tab-icon">📺</span>
+              <span>Watch Video</span>
+              <span class="hd-badge"><span class="badge-dot"></span> LIVE HD</span>
+            </button>
+          </div>
+
+          <button id="btn-hide-player" class="player-hide-card-btn" title="Hide Music Player (H)" aria-label="Hide Player">
+            <span>👁️</span>
+            <span>Hide</span>
+          </button>
+        </div>
+
+        <!-- Disc Container with Real Sacred Deep / Diya -->
+        <div class="disc-stage" id="disc-stage">
+          <div class="vinyl-disc-wrapper" id="disc-wrapper">
+            <div class="vinyl-aura"></div>
+            <div class="vinyl-disc" id="vinyl-disc">
+              <div class="disc-grooves"></div>
+              <div class="disc-golden-rim"></div>
+              <!-- Real Sacred Deep (Diya) with Divine Burning Flame -->
+              <div class="disc-deep-center">
+                <img src="sacred_deep.jpg" alt="Sacred Lit Diya (Deep)" class="deep-center-img">
+                <div class="deep-inner-glow"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Animated Audio Visualizer Bars -->
+          <div class="visualizer-bars" id="visualizer-bars" aria-label="Audio Visualizer">
+            <!-- Dynamically populated frequency bars -->
+          </div>
+        </div>
+
+        <!-- Embedded YouTube Video Stage (Iframe Format) -->
+        <div class="video-stage" id="video-stage">
+          <div class="video-frame-container">
+            <div class="video-ambient-glow"></div>
+            <div class="video-player-embed" id="video-player-embed">
+              <div id="youtube-player"></div>
+            </div>
+            <div class="video-live-overlay">
+              <span class="live-pill"><span class="live-pulse"></span> 🔴 YOUTUBE HD • CHHATH GEET</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Song Metadata -->
+        <div class="track-info">
+          <div class="track-header">
+            <span class="category-badge" id="current-category">Devotional</span>
+            <span class="track-index" id="current-track-num">Track 01 / 500</span>
+          </div>
+          <h3 class="track-title" id="current-title">Kakra Khatir Karab Chhath Puja</h3>
+          <p class="track-artist" id="current-artist">Pawan Singh</p>
+        </div>
+
+        <!-- Seek Scrubber -->
+        <div class="progress-section">
+          <div class="progress-bar-wrapper" id="progress-container" role="slider" aria-label="Seek track"
+            aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" tabindex="0">
+            <div class="progress-loaded" id="progress-loaded"></div>
+            <div class="progress-current" id="progress-current">
+              <div class="progress-thumb"></div>
+            </div>
+          </div>
+          <div class="time-row">
+            <span class="time-text" id="time-current">0:00</span>
+            <span class="time-text" id="time-duration">0:00</span>
+          </div>
+        </div>
+
+        <!-- Core Controls -->
+        <div class="controls-row">
+          <!-- Favorite Button -->
+          <button id="btn-favorite" class="ctrl-btn icon-ctrl" aria-label="Favorite this song" title="Favorite (F)">
+            <svg class="heart-icon" viewBox="0 0 24 24" width="22" height="22">
+              <path
+                d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z">
+              </path>
+            </svg>
+          </button>
+
+          <!-- Shuffle Button -->
+          <button id="btn-shuffle" class="ctrl-btn icon-ctrl" aria-label="Shuffle playlist" title="Toggle Shuffle">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="16 3 21 3 21 8"></polyline>
+              <line x1="4" y1="20" x2="21" y2="3"></line>
+              <polyline points="21 16 21 21 16 21"></polyline>
+              <line x1="15" y1="15" x2="21" y2="21"></line>
+              <line x1="4" y1="4" x2="9" y2="9"></line>
+            </svg>
+            <span class="active-dot"></span>
+          </button>
+
+          <!-- Previous Button -->
+          <button id="btn-prev" class="ctrl-btn" aria-label="Previous song" title="Previous (←)">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
+              <polygon points="19 20 9 12 19 4 19 20"></polygon>
+              <line x1="5" y1="19" x2="5" y2="5" stroke="currentColor" stroke-width="2" stroke-linecap="round"></line>
+            </svg>
+          </button>
+
+          <!-- Play / Pause Pulsing Button -->
+          <button id="btn-play" class="play-btn-pulse" aria-label="Play or pause" title="Play / Pause (Space)">
+            <div class="play-btn-glow"></div>
+            <div class="play-icon-box">
+              <svg id="icon-play" viewBox="0 0 24 24" width="26" height="26" fill="currentColor">
+                <polygon points="5 3 19 12 5 21 5 3"></polygon>
+              </svg>
+              <svg id="icon-pause" class="hidden" viewBox="0 0 24 24" width="26" height="26" fill="currentColor">
+                <rect x="6" y="4" width="4" height="16" rx="1"></rect>
+                <rect x="14" y="4" width="4" height="16" rx="1"></rect>
+              </svg>
+            </div>
+          </button>
+
+          <!-- Next Button -->
+          <button id="btn-next" class="ctrl-btn" aria-label="Next song" title="Next (→)">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
+              <polygon points="5 4 15 12 5 20 5 4"></polygon>
+              <line x1="19" y1="5" x2="19" y2="19" stroke="currentColor" stroke-width="2" stroke-linecap="round"></line>
+            </svg>
+          </button>
+
+          <!-- Loop Mode Button -->
+          <button id="btn-loop" class="ctrl-btn icon-ctrl" aria-label="Loop mode" title="Loop Mode (Off / All / One)">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="17 1 21 5 17 9"></polyline>
+              <path d="M3 11V9a4 4 0 0 1 4-4h14"></path>
+              <polyline points="7 23 3 19 7 15"></polyline>
+              <path d="M21 13v2a4 4 0 0 1-4 4H3"></path>
+            </svg>
+            <span class="loop-indicator-badge" id="loop-badge">ALL</span>
+          </button>
+
+          <!-- Toggle Playlist Queue Button -->
+          <button id="btn-card-toggle-playlist" class="ctrl-btn icon-ctrl active" aria-label="Toggle Playlist panel" title="Hide or Show Playlist (P)">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="8" y1="6" x2="21" y2="6"></line>
+              <line x1="8" y1="12" x2="21" y2="12"></line>
+              <line x1="8" y1="18" x2="21" y2="18"></line>
+              <line x1="3" y1="6" x2="3.01" y2="6"></line>
+              <line x1="3" y1="12" x2="3.01" y2="12"></line>
+              <line x1="3" y1="18" x2="3.01" y2="18"></line>
+            </svg>
+          </button>
+
+          <!-- Download Song Button -->
+          <button id="btn-download-song" class="ctrl-btn icon-ctrl download-ctrl-btn" aria-label="Download this song" title="Download Song (MP3 / Audio / Video) [D]">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="7 10 12 15 17 10"></polyline>
+              <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Dedicated Quick Download Action Bar -->
+        <div class="player-download-bar">
+          <button id="btn-quick-download" class="quick-download-btn" title="Download Song MP3 / Video (D)">
+            <span class="dl-btn-icon">📥</span>
+            <span class="dl-btn-text">Download Song (MP3 / Audio)</span>
+            <span class="dl-btn-quality">320 KBPS</span>
+          </button>
+        </div>
+
+        <!-- Volume Bar & Sacred Footer -->
+        <div class="player-footer">
+          <div class="volume-container">
+            <button id="btn-volume" class="vol-btn" aria-label="Mute or unmute" title="Mute (M)">
+              <svg id="icon-vol-high" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor"
+                stroke-width="2">
+                <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" fill="currentColor"></polygon>
+                <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+              </svg>
+              <svg id="icon-vol-mute" class="hidden" viewBox="0 0 24 24" width="18" height="18" fill="none"
+                stroke="currentColor" stroke-width="2">
+                <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" fill="currentColor"></polygon>
+                <line x1="23" y1="9" x2="17" y2="15"></line>
+                <line x1="17" y1="9" x2="23" y2="15"></line>
+              </svg>
+            </button>
+            <input type="range" id="volume-slider" min="0" max="100" value="80" class="glass-slider"
+              aria-label="Volume level">
+            <span class="vol-level-text" id="vol-level-text">80%</span>
+          </div>
+
+          <div class="player-status-tag">
+            <span class="status-icon">🪔</span>
+            <span class="status-text" id="player-status-text">जय छठी मइया • Created by Uday Raj</span>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <!-- Right Column: Sacred Playlist Card (500 Songs) -->
+    <section class="playlist-column" id="playlist-column">
+      <article class="glass-card playlist-card" id="playlist-card">
+        <!-- Playlist Card Header -->
+        <div class="playlist-header">
+          <div class="playlist-header-left">
+            <h3 class="playlist-heading">Sacred Chhath Collection</h3>
+            <span class="playlist-counter-badge" id="playlist-count">500 Tracks</span>
+          </div>
+          <div class="playlist-header-right">
+            <button id="quick-shuffle-btn" class="glass-btn small-btn shuffle-header-btn"
+              title="Quickly shuffle & play a random anthem">
+              <span>🔀</span> Quick Shuffle
+            </button>
+            <span class="audio-quality-badge">✨ 500 Top Anthems</span>
+            <button id="btn-playlist-close" class="glass-btn small-btn playlist-hide-btn" title="Hide Playlist (P)">
+              <span class="btn-icon">👁️</span> Hide
+            </button>
+          </div>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="search-box-wrapper">
+          <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor"
+            stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="song-search-input" class="search-input"
+            placeholder="Search 500 songs by title, singer (Sharda Sinha, Pawan Singh, Khesari, Shilpi Raj...)"
+            autocomplete="off">
+          <span class="search-kbd-hint"><kbd>/</kbd></span>
+          <button id="search-clear-btn" class="search-clear hidden" aria-label="Clear search">✕</button>
+        </div>
+
+        <!-- Category Filter Chips -->
+        <div class="category-filters-container" role="tablist" aria-label="Filter categories">
+          <button class="filter-chip active" data-category="ALL" role="tab" aria-selected="true">
+            All Songs <span class="chip-count" id="count-all">500</span>
+          </button>
+          <button class="filter-chip chip-fav" data-category="FAVORITES" role="tab" aria-selected="false">
+            ❤️ Favorites <span class="chip-count" id="count-fav">0</span>
+          </button>
+          <button class="filter-chip" data-category="Arghya / Sandhya Ghat" role="tab" aria-selected="false">
+            Arghya / Sandhya Ghat <span class="chip-count" id="count-arghya">0</span>
+          </button>
+          <button class="filter-chip" data-category="Morning Surya" role="tab" aria-selected="false">
+            Morning Surya <span class="chip-count" id="count-surya">0</span>
+          </button>
+          <button class="filter-chip" data-category="Bahangi" role="tab" aria-selected="false">
+            Bahangi <span class="chip-count" id="count-bahangi">0</span>
+          </button>
+          <button class="filter-chip" data-category="Devotional" role="tab" aria-selected="false">
+            Devotional <span class="chip-count" id="count-devotional">0</span>
+          </button>
+          <button class="filter-chip" data-category="Modern" role="tab" aria-selected="false">
+            Modern <span class="chip-count" id="count-modern">0</span>
+          </button>
+        </div>
+
+        <!-- Scrollable Song List -->
+        <div class="songs-list-container" id="songs-list-container">
+          <ul class="songs-list" id="songs-list" role="listbox">
+            <!-- 100 song items dynamically rendered here -->
+          </ul>
+          <!-- Empty State -->
+          <div class="empty-state hidden" id="empty-state">
+            <span class="empty-icon">🪔</span>
+            <p class="empty-title">No sacred songs match your search</p>
+            <p class="empty-desc">Try clearing the search query or selecting "All Songs".</p>
+            <button id="empty-reset-btn" class="glass-btn small-btn">Reset Filters</button>
+          </div>
+        </div>
+
+        <!-- Card Footer Credits -->
+        <div class="playlist-footer-credits">
+          <span>🌟 Collection curated with devotion by <strong>Uday Raj</strong></span>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <!-- Floating Show Playlist Button (Visible when playlist is hidden) -->
+  <button id="floating-show-playlist-btn" class="floating-show-playlist-btn hidden" title="Show Sacred Playlist (P)">
+    <span class="pill-sparkle">📜</span>
+    <span>Show Playlist (500 Songs)</span>
+    <kbd class="mini-kbd">P</kbd>
+  </button>
+
+  <!-- Floating Show Player Button (Visible when player is hidden) -->
+  <button id="floating-show-player-btn" class="floating-show-player-btn hidden" title="Show Music Player (H)">
+    <span class="pill-sparkle">🎵</span>
+    <span id="floating-player-label">Show Player</span>
+    <kbd class="mini-kbd">H</kbd>
+  </button>
+
+  <!-- Sticky Mobile Mini-Player -->
+  <aside class="mobile-mini-player" id="mobile-mini-player" aria-label="Mobile Mini Player">
+    <div class="mini-progress-bar" id="mini-progress-bar"></div>
+    <div class="mini-player-content">
+      <img src="sacred_deep.jpg" alt="Mini Deep" class="mini-deep-img" id="mini-disc">
+      <div class="mini-info" id="mini-info">
+        <span class="mini-title" id="mini-title">Pahile Pahil Hum Kailin</span>
+        <span class="mini-artist" id="mini-artist">Sharda Sinha • Created by Uday Raj</span>
+      </div>
+      <div class="mini-actions">
+        <button id="mini-btn-prev" class="mini-btn" aria-label="Previous">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+            <polygon points="19 20 9 12 19 4 19 20"></polygon>
+            <line x1="5" y1="19" x2="5" y2="5" stroke="currentColor" stroke-width="2"></line>
+          </svg>
+        </button>
+        <button id="mini-btn-play" class="mini-btn mini-btn-highlight" aria-label="Play/Pause">
+          <svg id="mini-icon-play" viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+            <polygon points="5 3 19 12 5 21 5 3"></polygon>
+          </svg>
+          <svg id="mini-icon-pause" class="hidden" viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+            <rect x="6" y="4" width="4" height="16" rx="1"></rect>
+            <rect x="14" y="4" width="4" height="16" rx="1"></rect>
+          </svg>
+        </button>
+        <button id="mini-btn-next" class="mini-btn" aria-label="Next">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+            <polygon points="5 4 15 12 5 20 5 4"></polygon>
+            <line x1="19" y1="5" x2="19" y2="19" stroke="currentColor" stroke-width="2"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Keyboard Shortcuts Modal -->
+  <div class="modal-backdrop hidden" id="shortcuts-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="glass-card modal-dialog">
+      <div class="modal-header">
+        <h3 id="modal-title" class="modal-title">⌨️ Keyboard Shortcuts</h3>
+        <button id="modal-close-btn" class="modal-close" aria-label="Close modal">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Play / Pause</span>
+          <kbd class="key-chip">Space</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Next Track</span>
+          <kbd class="key-chip">→</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Previous Track</span>
+          <kbd class="key-chip">←</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Volume Up (+5%)</span>
+          <kbd class="key-chip">↑</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Volume Down (-5%)</span>
+          <kbd class="key-chip">↓</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Mute / Unmute</span>
+          <kbd class="key-chip">M</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Toggle Favorite</span>
+          <kbd class="key-chip">F</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Hide / Show Player (Toggle)</span>
+          <kbd class="key-chip">H</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Hide / Show Playlist (Toggle)</span>
+          <kbd class="key-chip">P</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Hide All UI / Cinema Mode</span>
+          <kbd class="key-chip">Z</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Download Current Song</span>
+          <kbd class="key-chip">D</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Toggle Morning / Evening View</span>
+          <kbd class="key-chip">T</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Toggle Diya Disc / Video View</span>
+          <kbd class="key-chip">V</kbd>
+        </div>
+        <div class="shortcut-row">
+          <span class="shortcut-desc">Search Songs</span>
+          <kbd class="key-chip">/</kbd>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Download Song Modal -->
+  <div class="modal-backdrop hidden" id="download-modal" role="dialog" aria-modal="true" aria-labelledby="dl-modal-title">
+    <div class="glass-card modal-dialog download-modal-dialog">
+      <div class="modal-header">
+        <div class="dl-modal-header-info">
+          <span class="dl-modal-icon">📥</span>
+          <div>
+            <h3 id="dl-modal-title" class="modal-title">Download Chhath Geet</h3>
+            <span class="dl-modal-subtitle">High Quality Audio & Video Options</span>
+          </div>
+        </div>
+        <button id="dl-modal-close-btn" class="modal-close" aria-label="Close modal">✕</button>
+      </div>
+
+      <div class="modal-body download-modal-body">
+        <!-- Target Song Preview Card -->
+        <div class="dl-song-preview-card">
+          <div class="dl-preview-thumb">🪔</div>
+          <div class="dl-preview-details">
+            <h4 class="dl-preview-title" id="dl-preview-title">Kakra Khatir Karab Chhath Puja</h4>
+            <p class="dl-preview-artist" id="dl-preview-artist">Pawan Singh</p>
+            <div class="dl-preview-tags">
+              <span class="dl-tag-badge" id="dl-preview-category">Devotional</span>
+              <span class="dl-tag-badge gold">✨ Curated by Uday Raj</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Download Actions List -->
+        <div class="dl-options-grid">
+          <!-- Option 1: High Quality MP3 (320kbps) -->
+          <div class="dl-option-card" id="dl-opt-mp3">
+            <div class="dl-opt-left">
+              <span class="dl-opt-icon">🎵</span>
+              <div>
+                <strong class="dl-opt-title">Download MP3 Audio</strong>
+                <span class="dl-opt-desc">HQ 320 kbps Studio Audio • Direct Fast Download</span>
+              </div>
+            </div>
+            <button class="dl-action-btn primary" id="btn-dl-mp3">
+              <span>⬇️ Download MP3</span>
+            </button>
+          </div>
+
+          <!-- Option 2: HD Video (MP4) -->
+          <div class="dl-option-card" id="dl-opt-video">
+            <div class="dl-opt-left">
+              <span class="dl-opt-icon">📺</span>
+              <div>
+                <strong class="dl-opt-title">Download HD Video</strong>
+                <span class="dl-opt-desc">Full HD 1080p / 720p Video (MP4)</span>
+              </div>
+            </div>
+            <button class="dl-action-btn secondary" id="btn-dl-video">
+              <span>⬇️ Download Video</span>
+            </button>
+          </div>
+
+          <!-- Option 3: Save Offline in Web App -->
+          <div class="dl-option-card" id="dl-opt-offline">
+            <div class="dl-opt-left">
+              <span class="dl-opt-icon">💾</span>
+              <div>
+                <strong class="dl-opt-title">Save for Offline Playback</strong>
+                <span class="dl-opt-desc" id="dl-offline-desc">Keep in browser offline library to play without internet</span>
+              </div>
+            </div>
+            <button class="dl-action-btn outline" id="btn-dl-offline">
+              <span id="dl-offline-btn-text">💾 Save Offline</span>
+            </button>
+          </div>
+
+          <!-- Option 4: Direct YouTube Stream & Copy Link -->
+          <div class="dl-option-card" id="dl-opt-link">
+            <div class="dl-opt-left">
+              <span class="dl-opt-icon">🔗</span>
+              <div>
+                <strong class="dl-opt-title">Official Video Stream</strong>
+                <span class="dl-opt-desc">Open official streaming link or copy URL</span>
+              </div>
+            </div>
+            <div class="dl-btn-group">
+              <a href="#" target="_blank" rel="noopener noreferrer" class="dl-action-btn outline-link" id="btn-dl-open-yt">
+                <span>↗ Open</span>
+              </a>
+              <button class="dl-action-btn outline" id="btn-dl-copy-link">
+                <span>📋 Copy</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div class="dl-modal-note">
+          <span>🙏 पावन छठ पर्व के अनुपम गीत • Curated with devotion by <strong>Uday Raj</strong></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification System -->
+  <div id="toast" class="toast-card hidden" role="alert" aria-live="polite">
+    <span class="toast-icon" id="toast-icon">✨</span>
+    <span class="toast-msg" id="toast-msg">View changed</span>
+  </div>
+
+  <!-- Script -->
+  <script src="script.js"></script>
+</body>
+
+</html>

@@ -10,7 +10,13 @@
 
 **A Cinematic, Ultra-Modern Web Devotional Music Experience Dedicated to Chhathi Maiya & Lord Surya Dev**
 
-[About](#-about-the-project) • [Description](#-project-description) • [Key Features](#-key-features) • [Keyboard Shortcuts](#-keyboard-shortcuts) • [Tech Stack](#%EF%B8%8F-technology-stack) • [Installation](#-quick-start--installation) • [Author](#-author--dedication)
+<br>
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fudayraj7366%2Fchhath-puja-music)
+
+<br>
+
+[About](#-about-the-project) • [Description](#-project-description) • [Key Features](#-key-features) • [Deploy on Vercel](#%E2%96%B2-deploy-to-vercel) • [Keyboard Shortcuts](#-keyboard-shortcuts) • [Tech Stack](#%EF%B8%8F-technology-stack) • [Installation](#-quick-start--installation) • [Author](#-author--dedication)
 
 ---
 
@@ -132,6 +138,32 @@ chhath-puja-music/
 ├── chhath_morning_ghat.jpg    # Morning ghat sunrise background
 ├── chhath_evening_ghat.jpg    # Evening ghat sunset arghya background
 └── README.md                  # Detailed project documentation & guide
+```
+
+---
+
+## ▲ Deploy to Vercel
+
+The application is fully configured and optimized for zero-configuration, lightning-fast deployment on **[Vercel](https://vercel.com/)** with included `package.json` and `vercel.json` edge caching rules.
+
+### Method 1: 1-Click Instant Deploy (Recommended)
+Click the badge below to import the repository directly into your Vercel account:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fudayraj7366%2Fchhath-puja-music)
+
+### Method 2: Import from GitHub on Vercel Dashboard
+1. Go to **[vercel.com/new](https://vercel.com/new)**.
+2. Sign in with GitHub.
+3. Under **"Import Git Repository"**, select **`chhath-puja-music`**.
+4. Leave the default settings (Framework Preset: *Other* / Root Directory: `./`).
+5. Click **"Deploy"**.
+6. Your live website will be ready in ~15 seconds with a free `.vercel.app` domain!
+
+### Method 3: Deploy via Vercel CLI (Terminal)
+```bash
+npm install -g vercel
+vercel login
+vercel --prod
 ```
 
 ---

@@ -932,6 +932,11 @@ async function loadSongs() {
     updateCategoryCounts();
     renderPlaylist();
 
+    const brandBadgeCount = document.getElementById('brand-badge-count');
+    if (brandBadgeCount) {
+      brandBadgeCount.textContent = `${state.songs.length} Verified Songs`;
+    }
+
     const loopBadge = document.getElementById('loop-badge');
     const loopBtn = document.getElementById('btn-loop');
     if (loopBadge) loopBadge.textContent = state.loopMode.toUpperCase();

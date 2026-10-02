@@ -1,3502 +1,842 @@
 [
   {
     "id": 1,
-    "title": "Kakra Khatir Karab Chhath Puja",
-    "artist": "Pawan Singh",
-    "youtubeId": "FPDKM5NidYM",
-    "category": "Devotional"
+    "title": "पहिले पहिल हम कईनी छठी मईया (Pahile Pahil Chhathi Maiya)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "DG8F-csoRAQ",
+    "category": "Pahile Pahil"
   },
   {
     "id": 2,
-    "title": "Saiya Arab Gaile Na (Chhath Geet)",
-    "artist": "Khesari Lal Yadav & Shilpi Raj",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Modern"
+    "title": "केलवा के पात पर उगेलन सूरज देव (Kelwa Ke Paat Par)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "77F1B1_7948",
+    "category": "Arghya / Sandhya Ghat"
   },
   {
     "id": 3,
-    "title": "Saiya Arab Gailen Balamua",
-    "artist": "Pawan Singh",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Devotional"
+    "title": "हो दीनानाथ (Ho Deenanath)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "fOVGz9WFymU",
+    "category": "Morning Surya"
   },
   {
     "id": 4,
-    "title": "Chhathi Maiya Ke Baratiya",
-    "artist": "Pawan Singh",
-    "youtubeId": "BKoD7bTLc2k",
+    "title": "दुखवा मिटाईं छठी मईया - 2024 (Dukhwa Mitayin Chhathi Maiya)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "NkDiSj9c1EA",
     "category": "Devotional"
   },
   {
     "id": 5,
-    "title": "Pahile Pahil Chhathi Maiya",
+    "title": "उठउ सूरज भईल भिनसरवा (Uthau Suruj Bhaeel Bhinsarwa)",
     "artist": "Sharda Sinha",
-    "youtubeId": "DG8F-csoRAQ",
-    "category": "Devotional"
+    "youtubeId": "aMptg5iA5j4",
+    "category": "Morning Surya"
   },
   {
     "id": 6,
-    "title": "Kosiya Bhare Aai Aashish",
-    "artist": "Aashish Yadav",
-    "youtubeId": "1bBv78X1jLQ",
-    "category": "Arghya / Sandhya Ghat"
+    "title": "जोड़े जोड़े सुपवा तोहे चढ़ईबो (Jode Jode Supva)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "P_hC376nQoc",
+    "category": "Bahangi"
   },
   {
     "id": 7,
-    "title": "Chhath Ghate DJ Baji",
-    "artist": "Shilpi Raj",
-    "youtubeId": "E5r6y9mK2QI",
-    "category": "Modern"
+    "title": "काँच ही बाँस के बहंगिया (Kaanch Hi Baans Ke Bahangiya)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "QzLgN_d7uC0",
+    "category": "Bahangi"
   },
   {
     "id": 8,
-    "title": "Bagiya Me Bole Koyaliya",
-    "artist": "Anu Dubey",
-    "youtubeId": "4zGf90U-K5k",
+    "title": "बाँझी केवड़वा धईले ठाढ़ (Baanjhi Kewdwa Dhaile Thaadh)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "MEnyozGodAU",
     "category": "Devotional"
   },
   {
     "id": 9,
-    "title": "Kanch Hi Baans Ke Bahangiya",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "Eyq7vfxu4iA",
-    "category": "Bahangi"
+    "title": "पहिले पहिल छठी माई - ओरिजिनल (Pahile Pahil Original)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "0bV1X287d3s",
+    "category": "Pahile Pahil"
   },
   {
     "id": 10,
-    "title": "Devo Chhath Uga Hey Surujdev",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "6e6Hp6R5SVU",
-    "category": "Morning Surya"
+    "title": "सामा खेले चलली (Sama Khele Chalali)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "N1_zEa4h9rY",
+    "category": "Devotional"
   },
   {
     "id": 11,
-    "title": "Najar Dali Surajdev",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "j9G3caThH98",
-    "category": "Morning Surya"
+    "title": "पटना के घाट पर (Patna Ke Ghat Par)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "bO2tH-8n010",
+    "category": "Arghya / Sandhya Ghat"
   },
   {
     "id": 12,
-    "title": "Uga Hai Suraj Dev",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "6e6Hp6R5SVU",
-    "category": "Morning Surya"
+    "title": "केरवा जे फरेला घवद से (Kerwa Je Farela)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "2UeM1gU94sI",
+    "category": "Devotional"
   },
   {
     "id": 13,
-    "title": "Hathi Maiya Bulaye (Chhathi Maiya Bulaye)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "OrlnX9zM5-k",
-    "category": "Modern"
+    "title": "सुरुज देव अरघ के बेरा (Suruj Dev Aragh Ke Bera)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "c2tE4Z6_v1s",
+    "category": "Arghya / Sandhya Ghat"
   },
   {
     "id": 14,
-    "title": "Kaanch Hi Bans Ke Bahangiya",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "Eyq7vfxu4iA",
-    "category": "Bahangi"
+    "title": "छठी मईया आईहे हमार अंगना (Chhathi Maiya Aaihe)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "m1tT3b8f2wQ",
+    "category": "Devotional"
   },
   {
     "id": 15,
-    "title": "Pahile Pahil Hum Kailin Chhathi Maiya",
+    "title": "शारदा सिन्हा सम्पूर्ण छठ गीत संग्रह (Sharda Sinha Complete Jukebox)",
     "artist": "Sharda Sinha",
-    "youtubeId": "DG8F-csoRAQ",
+    "youtubeId": "9gA5vYq8qFw",
     "category": "Devotional"
   },
   {
     "id": 16,
-    "title": "Kelwa Ke Paat Par",
+    "title": "केलवा के पात पर - लिरिकल (Kelwa Ke Paat Par Lyrical)",
     "artist": "Sharda Sinha",
-    "youtubeId": "knZ8b5YnQiY",
+    "youtubeId": "y7hrM7PouQM",
     "category": "Arghya / Sandhya Ghat"
   },
   {
     "id": 17,
-    "title": "Marbo Re Sugwa Dhanukh Se",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "jRsXRee52xw",
+    "title": "सामा खेले चलली - क्लासिक (Sama Khele Chalali Classic)",
+    "artist": "Sharda Sinha",
+    "youtubeId": "KM2ExADAvSw",
     "category": "Devotional"
   },
   {
     "id": 18,
-    "title": "Jode Jode Supwa (Falwa)",
-    "artist": "Pawan Singh",
-    "youtubeId": "BKoD7bTLc2k",
-    "category": "Bahangi"
-  },
-  {
-    "id": 19,
-    "title": "Ho Dinanath",
-    "artist": "Sharda Sinha",
-    "youtubeId": "fOVGz9WFymU",
-    "category": "Devotional"
-  },
-  {
-    "id": 20,
-    "title": "Chhath Pooja Ke Geet (Jukebox)",
-    "artist": "Anuradha Paudwal & Kavita Paudwal",
-    "youtubeId": "3xE8-cSXO8E",
-    "category": "Devotional"
-  },
-  {
-    "id": 21,
-    "title": "Best of Anuradha Paudwal Chhath",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "poJwkanrYAU",
-    "category": "Devotional"
-  },
-  {
-    "id": 22,
-    "title": "Chhathi Mai Ke Mahima Apar",
-    "artist": "Pawan Singh",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Devotional"
-  },
-  {
-    "id": 23,
-    "title": "Kavana Kalamva Se Likhala Karamva",
+    "title": "कवना कलमवाँ से लिखलऽ करमवाँ (Kawna Kalamwa Se Likhala)",
     "artist": "Pawan Singh & Priyanka Singh",
     "youtubeId": "FPDKM5NidYM",
     "category": "Devotional"
   },
   {
-    "id": 24,
-    "title": "Chhath Mai Ke Baratiya",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Devotional"
+    "id": 19,
+    "title": "जोड़े जोड़े फलवा सुरुज देव (Jode Jode Falwa)",
+    "artist": "Pawan Singh",
+    "youtubeId": "BKoD7bTLc2k",
+    "category": "Bahangi"
   },
   {
-    "id": 25,
-    "title": "Chhathi Maiya Ke Dihal Lalanwa",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "kfp_31_8d2Y",
-    "category": "Devotional"
-  },
-  {
-    "id": 26,
-    "title": "Kare Mai Kathin Baratiya",
-    "artist": "Swati Mishra",
-    "youtubeId": "sIAgTGsgLHI",
-    "category": "Devotional"
-  },
-  {
-    "id": 27,
-    "title": "Chhathi Maiya Dular",
-    "artist": "Akshara Singh",
-    "youtubeId": "wD4ptJDaa8c",
-    "category": "Devotional"
-  },
-  {
-    "id": 28,
-    "title": "Uthau Suruj Bhaile Bihaan",
-    "artist": "Sharda Sinha",
-    "youtubeId": "j9G3caThH98",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 29,
-    "title": "Ugi Suruj Dev (Aragh Ke Ber)",
+    "id": 20,
+    "title": "उगी सुरुज देव (Ugi Suruj Dev)",
     "artist": "Pawan Singh",
     "youtubeId": "z3TKq9LVbzM",
     "category": "Morning Surya"
   },
   {
+    "id": 21,
+    "title": "छठी माई के घाटवा पे आजन बाजन (Chhathi Mai Ke Ghatwa Pe)",
+    "artist": "Pawan Singh",
+    "youtubeId": "6diXoexNQ58",
+    "category": "Arghya / Sandhya Ghat"
+  },
+  {
+    "id": 22,
+    "title": "जय छठी मईया (Jai Chhathi Maiya)",
+    "artist": "Pawan Singh & Sonu Nigam",
+    "youtubeId": "O97P6FwK4z8",
+    "category": "Devotional"
+  },
+  {
+    "id": 23,
+    "title": "छठ करब हम जरूर (Chhath Karab Hum Jaroor)",
+    "artist": "Pawan Singh",
+    "youtubeId": "YgZVwHe5HTs",
+    "category": "Devotional"
+  },
+  {
+    "id": 24,
+    "title": "छठी माई के महिमा अपार (Chhathi Mai Ke Mahima Apar Jukebox)",
+    "artist": "Pawan Singh",
+    "youtubeId": "bQnocjuQHZI",
+    "category": "Devotional"
+  },
+  {
+    "id": 25,
+    "title": "घाट सजल बा मनोहर (Ghat Sajal Ba Manohar)",
+    "artist": "Pawan Singh",
+    "youtubeId": "9y6mDqXzN4g",
+    "category": "Arghya / Sandhya Ghat"
+  },
+  {
+    "id": 26,
+    "title": "जोड़े जोड़े नारियल (Jode Jode Nariyal)",
+    "artist": "Pawan Singh",
+    "youtubeId": "4T3vX1_8sQ4",
+    "category": "Bahangi"
+  },
+  {
+    "id": 27,
+    "title": "धनिया हमार नया बाड़ी हो (Dhaniya Hamar Naya Baadi)",
+    "artist": "Pawan Singh",
+    "youtubeId": "Dd_KAUMoKbY",
+    "category": "Modern"
+  },
+  {
+    "id": 28,
+    "title": "धनिया में पनिया (Dhaniya Me Paniya)",
+    "artist": "Pawan Singh & Shilpi Raj",
+    "youtubeId": "KKdxIMVJ5-s",
+    "category": "Modern"
+  },
+  {
+    "id": 29,
+    "title": "चलS भउजी हाली हाली (Chala Bhauji Haali Haali)",
+    "artist": "Pawan Singh & Sonu Nigam",
+    "youtubeId": "npKAJYACnrQ",
+    "category": "Arghya / Sandhya Ghat"
+  },
+  {
     "id": 30,
-    "title": "Ugi Hey Dinanath",
-    "artist": "Swati Mishra",
-    "youtubeId": "px11PiCUUy8",
-    "category": "Morning Surya"
+    "title": "भउजी कोशी भर सोनू (Bhauji Koshi Bhara Sonu)",
+    "artist": "Pawan Singh & Sonu Nigam",
+    "youtubeId": "G9yiA2WyWFU",
+    "category": "Arghya / Sandhya Ghat"
   },
   {
     "id": 31,
-    "title": "Ka Kari Dinanath",
-    "artist": "Akshara Singh",
-    "youtubeId": "O6Kdu98-qOE",
-    "category": "Morning Surya"
+    "title": "जय छठी मईया - स्पेशल एडिशन (Jai Chhathi Maiya Special)",
+    "artist": "Pawan Singh & Sonu Nigam",
+    "youtubeId": "hrdOsqMVQe4",
+    "category": "Devotional"
   },
   {
     "id": 32,
-    "title": "Ugi He Dinanath",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "FGQ0SCK1AtE",
-    "category": "Morning Surya"
+    "title": "नॉन-स्टॉप छठ पूजा गीत (Pawan Singh Nonstop Collection)",
+    "artist": "Pawan Singh",
+    "youtubeId": "n0PJSdz9REQ",
+    "category": "Devotional"
   },
   {
     "id": 33,
-    "title": "Sona Surujdev (Morning Arghya)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "Li8bbUM9bqI",
-    "category": "Morning Surya"
+    "title": "छठ माई के बरतिया (Chhath Mai Ke Baratiya)",
+    "artist": "Khesari Lal Yadav",
+    "youtubeId": "aLbXQ9VIxKI",
+    "category": "Devotional"
   },
   {
     "id": 34,
-    "title": "Chhath Ghate Chali",
-    "artist": "Khesari Lal & Antra Singh",
-    "youtubeId": "fCuHD3YBQKY",
+    "title": "छठ घाटे चली (Chhath Ghate Chali)",
+    "artist": "Khesari Lal Yadav & Antra Singh Priyanka",
+    "youtubeId": "RECXFdRjQ9M",
     "category": "Arghya / Sandhya Ghat"
   },
   {
     "id": 35,
-    "title": "Ghutti Bhar Mor Dhoti Bhije",
+    "title": "घूँटी भर मोर धोती भीजे (Ghutti Bhar Mor Dhoti Bhije)",
     "artist": "Khesari Lal Yadav",
     "youtubeId": "IKAJdLAviYw",
     "category": "Arghya / Sandhya Ghat"
   },
   {
     "id": 36,
-    "title": "Ke Aso Ghat Pa Daura Pahuchayi",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "OMxrW_T3EmQ",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 37,
-    "title": "Chhath Kare Aai (Ghat Geet)",
-    "artist": "Ritesh Pandey & Antra Singh",
-    "youtubeId": "_RmXRahCVI4",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 38,
-    "title": "Karelu Chhath Baratiya",
-    "artist": "Ritesh Pandey & Shilpi Raj",
-    "youtubeId": "dYT5y5d9gFE",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 39,
-    "title": "Darshan Dekhai Deehi",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "T_YXL_blE3A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 40,
-    "title": "Sona Satkuniya Ho Dinanaath",
-    "artist": "Maithili Thakur",
-    "youtubeId": "fwX2g9jjo1o",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 41,
-    "title": "Kelwa Ke Paat Par (Lyrical Ghat Special)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "y7hrM7PouQM",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 42,
-    "title": "Kaanch Hi Bans Ke Bahangi Lachkat Jaye",
-    "artist": "Akshara Singh",
-    "youtubeId": "qPPhTg0WBMw",
-    "category": "Bahangi"
-  },
-  {
-    "id": 43,
-    "title": "Daura Lihali Sajaay",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "hSFhpU7izGI",
-    "category": "Bahangi"
-  },
-  {
-    "id": 44,
-    "title": "Daura Uthaba Maath Pa",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "3JpdK4jue4M",
-    "category": "Bahangi"
-  },
-  {
-    "id": 45,
-    "title": "Chahi Nahi An Dhan Khajanwa - Bahangi",
-    "artist": "Arvind Akela Kallu & Nisha Ji",
-    "youtubeId": "wXv2MyuVOZQ",
-    "category": "Bahangi"
-  },
-  {
-    "id": 46,
-    "title": "Jode Jode Falwa Suruj Dev",
-    "artist": "Swati Mishra",
-    "youtubeId": "2Uh-rMxhBLY",
-    "category": "Bahangi"
-  },
-  {
-    "id": 47,
-    "title": "Jode Jode Supva Hey Chhathi Maiya",
-    "artist": "Sharda Sinha",
-    "youtubeId": "D3SpjcWpmm4",
-    "category": "Bahangi"
-  },
-  {
-    "id": 48,
-    "title": "Kanch Hi Baans Supwa (Paramparik)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "ZRzFhYPTymA",
-    "category": "Bahangi"
-  },
-  {
-    "id": 49,
-    "title": "Kahawa Paibo Sone Ke Katorwa",
-    "artist": "Anu Dubey",
-    "youtubeId": "pp0bO8uro64",
-    "category": "Bahangi"
-  },
-  {
-    "id": 50,
-    "title": "Bajan Baje Shahnaaiyya",
-    "artist": "Maithili Thakur & Family",
-    "youtubeId": "T3sQQtYLnxs",
-    "category": "Bahangi"
-  },
-  {
-    "id": 51,
-    "title": "Kara Tani Pahila Baratiya",
-    "artist": "Arvind Akela Kallu & Priyanka Singh",
-    "youtubeId": "q2H71hwnqV4",
-    "category": "Modern"
-  },
-  {
-    "id": 52,
-    "title": "Staron Ka Chhath",
-    "artist": "Arvind Akela Kallu & Antra Singh",
-    "youtubeId": "27ql9apTxBU",
-    "category": "Modern"
-  },
-  {
-    "id": 53,
-    "title": "Katik Maas Chhath Kara Dhaniya",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "z110W955D6E",
-    "category": "Modern"
-  },
-  {
-    "id": 54,
-    "title": "Kopi Kopi Boleli Chhathi Maiya",
-    "artist": "Anu Dubey",
-    "youtubeId": "BktbNj2TzPs",
-    "category": "Modern"
-  },
-  {
-    "id": 55,
-    "title": "Kharna Se Dharna Dele Baadi",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "gWrsbnzDMjc",
-    "category": "Modern"
-  },
-  {
-    "id": 56,
-    "title": "Futi Futi Rowe Nirdhaniya",
-    "artist": "Akshara Singh",
-    "youtubeId": "PL2eykuoUbI",
-    "category": "Modern"
-  },
-  {
-    "id": 57,
-    "title": "Ugi Hey Dinanath (Acoustic Folk)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "vSJO-AElAog",
-    "category": "Modern"
-  },
-  {
-    "id": 58,
-    "title": "Khesari Lal Chhath Nonstop Hits",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "a59A7FlnLZ8",
-    "category": "Modern"
-  },
-  {
-    "id": 59,
-    "title": "Swati Mishra Nonstop Chhath Special",
-    "artist": "Swati Mishra",
-    "youtubeId": "FZB5yjjpUUo",
-    "category": "Modern"
-  },
-  {
-    "id": 60,
-    "title": "Chhath Puja Special",
-    "artist": "Sharda Sinha",
-    "youtubeId": "9sc-qdxLFwU",
-    "category": "Devotional"
-  },
-  {
-    "id": 61,
-    "title": "Bhojpuri Chhath Pooja Songs I SHARDA SINHA I CHHATHI MAIYA I Full Audio Songs Juke Box I",
-    "artist": "Sharda Sinha",
-    "youtubeId": "6DePUrUWtmE",
-    "category": "Devotional"
-  },
-  {
-    "id": 62,
-    "title": "BEST OF SHARDA SINHA",
-    "artist": "Sharda Sinha",
-    "youtubeId": "gh6cssL0dr8",
-    "category": "Devotional"
-  },
-  {
-    "id": 63,
-    "title": "Bhojpuri Chhath Pooja Geet By Shardha Sinha Full Audio Songs Juke Box I Arag",
-    "artist": "Sharda Sinha",
-    "youtubeId": "2KHYupToh2Q",
-    "category": "Devotional"
-  },
-  {
-    "id": 64,
-    "title": "Best Of Sharda Sinha Chhath Geet",
-    "artist": "Sharda Sinha",
-    "youtubeId": "jwhOARFwCwg",
-    "category": "Devotional"
-  },
-  {
-    "id": 65,
-    "title": "Patna Ke Ghat Par - Hamhu Aragiya // Sharda Sinha",
-    "artist": "Sharda Sinha",
-    "youtubeId": "_RDu847nhmU",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 66,
-    "title": "पटना के घाट पर (छठ गीत) मैथिली ठाकुर",
-    "artist": "Sharda Sinha",
-    "youtubeId": "S80_EEIeOXI",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 67,
-    "title": "Patna Ke Ghatva Par Baaje Bhojpuri Chhath Geet  I Chhath Pooja Ke Geet",
-    "artist": "Sharda Sinha",
-    "youtubeId": "VkYrntXiEX8",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 68,
-    "title": "Baanjhi Kewdwa Dhaile Thaadh BHOJPURI CHHATH GEET SHARDA SINHA I Full VideoI MAHIMA CHHATHI MAIYA KE",
-    "artist": "Sharda Sinha",
-    "youtubeId": "MEnyozGodAU",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 69,
-    "title": "Shaam Chakeba Khelab Ho  Chhathi Maiya",
-    "artist": "Sharda Sinha",
-    "youtubeId": "CiAKfzxSIks",
-    "category": "Devotional"
-  },
-  {
-    "id": 70,
-    "title": "सामा खेले चलली भौजी संग सहेली - Chhath Songs - Sharda Sinha -छठ पूजा - Shaama Khele Chalali-Bhojpuri",
-    "artist": "Sharda Sinha",
-    "youtubeId": "wttz_prcD8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 71,
-    "title": "Sama Khele Chalali",
-    "artist": "Sharda Sinha",
-    "youtubeId": "KM2ExADAvSw",
-    "category": "Devotional"
-  },
-  {
-    "id": 72,
-    "title": "गाम के अधिकारी तोहें बड़का भैया हो",
-    "artist": "Sharda Sinha",
-    "youtubeId": "A9VXTD8HPDA",
-    "category": "Devotional"
-  },
-  {
-    "id": 73,
-    "title": "Maarbo Re Sugwa Anuradha Paudwal Bhojpuri Chhath Geet  I Kaanch Hi Baans Ke Bahangiya b",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "OnoINkPrhK0",
-    "category": "Bahangi"
-  },
-  {
-    "id": 74,
-    "title": "Kaanche Hi Baans Ke Bahangiya  Chhath Mahima",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "W-w55hqwyUs",
-    "category": "Bahangi"
-  },
-  {
-    "id": 75,
-    "title": "छठ पूजा: काँच ही बाँस के बहंगिया WITH LYRICS I Kaanch Hi Baans Ke Bahangiya I  PAUDWAL",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "XR-2NkJwrpk",
-    "category": "Bahangi"
-  },
-  {
-    "id": 76,
-    "title": "Kaanch Hi Baans Ke Bahangiya",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "3G4Ieyk7hV0",
-    "category": "Bahangi"
-  },
-  {
-    "id": 77,
-    "title": "Sone Ke Khadaooan Hey Deena Nath  Chhath Mahima",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "8z4e9fB5J-o",
-    "category": "Devotional"
-  },
-  {
-    "id": 78,
-    "title": "Sone Ke Katoriya  Chhati Maiya Ke Dihal Lalanva",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "5wJ6WkALK1c",
-    "category": "Devotional"
-  },
-  {
-    "id": 79,
-    "title": "Sone Ke Khadaooaan Hei Dinanath",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "fcLmbSNIxF0",
-    "category": "Devotional"
-  },
-  {
-    "id": 80,
-    "title": "छठ पूजा Special अरघ के बेर Aragh Ke Ber I ANURADHA PAUDWAL,Hindi English Lyrics,Chhath Pooja, Puja",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "fqlh99htTJA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 81,
-    "title": "Aragh Ke Ber Bhojpuri Chhath Geet by ANURADHA PAUDWAL  I Chhath Pooja Ke Geet",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "N3u5P5PjKQU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 82,
-    "title": "Uga Hai Suraj Dev Bhojpuri Chhath Pooja Geet By Anuradha Paudwal  I Chhath Geet",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "8MzoVsjL4QU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 83,
-    "title": "नॉन_स्टॉप_छठ_पूजा_गीत । Pawan Singh 2025 । Chhath Geet Bhojpuri Song",
-    "artist": "Pawan Singh",
-    "youtubeId": "n0PJSdz9REQ",
-    "category": "Devotional"
-  },
-  {
-    "id": 84,
-    "title": "Jai Chhathi Maiya",
-    "artist": "Pawan Singh",
-    "youtubeId": "Yz1XBzbaSoM",
-    "category": "Devotional"
-  },
-  {
-    "id": 85,
-    "title": "shitali bayariya chhath puja song",
-    "artist": "Pawan Singh",
-    "youtubeId": "AP3G513ok-Y",
-    "category": "Devotional"
-  },
-  {
-    "id": 86,
-    "title": "Pawan Singh Chhath parab shuru bhail",
-    "artist": "Pawan Singh",
-    "youtubeId": "npKAJYACnrQ",
-    "category": "Modern"
-  },
-  {
-    "id": 87,
-    "title": "Nigam & Pawan Singh भउजी कोशी भर सोनू",
-    "artist": "Pawan Singh",
-    "youtubeId": "G9yiA2WyWFU",
-    "category": "Devotional"
-  },
-  {
-    "id": 88,
-    "title": "Jai Chhathi Maiya (जय छठी मईया)",
-    "artist": "Pawan Singh",
-    "youtubeId": "hrdOsqMVQe4",
-    "category": "Devotional"
-  },
-  {
-    "id": 89,
-    "title": "Dhaniya Hamar Naya Baadi Ho",
-    "artist": "Pawan Singh",
-    "youtubeId": "oqi4EdCAGIM",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 90,
-    "title": "कहाँ बाड़ी धनिया हमार",
-    "artist": "Pawan Singh",
-    "youtubeId": "Sm8IWym6rRU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 91,
-    "title": "SINGH धनिया हमार नया बाड़ी हो",
-    "artist": "Pawan Singh",
-    "youtubeId": "Dd_KAUMoKbY",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 92,
-    "title": "Video -  Singh - धनिया में पनिया -  Raj - Dhaniya Me Paniya - Bhojpuri New Song 2025",
-    "artist": "Pawan Singh",
-    "youtubeId": "KKdxIMVJ5-s",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 93,
-    "title": "Lal Chhath Geet",
-    "artist": "Khesari Lal Yadav",
+    "title": "नारियल (Nariyal Chhath Geet)",
+    "artist": "Khesari Lal Yadav & Shilpi Raj",
     "youtubeId": "3pspvkGV1PU",
     "category": "Modern"
   },
   {
-    "id": 94,
-    "title": "Khesari Lal Chhath geet 2024 Wave",
-    "artist": "Khesari Lal Yadav",
+    "id": 37,
+    "title": "परी खातिर पियरी पिया (Pari Khatir Piyari Piya)",
+    "artist": "Khesari Lal Yadav & Shilpi Raj",
     "youtubeId": "UlLpWuzD568",
-    "category": "Modern"
+    "category": "Devotional"
   },
   {
-    "id": 95,
-    "title": "Lal Yadav नया छठ गीत 2023",
-    "artist": "Khesari Lal Yadav",
+    "id": 38,
+    "title": "सुरुज बाबा (Suruj Baba)",
+    "artist": "Khesari Lal Yadav & Priyanka Singh",
     "youtubeId": "Ea6Q2DWOq0Y",
-    "category": "Modern"
+    "category": "Morning Surya"
   },
   {
-    "id": 96,
-    "title": "मेकअप के फेरा अरघ के बेरा Makeup Ke Phera Aragh Ke Bera",
-    "artist": "Khesari Lal Yadav",
+    "id": 39,
+    "title": "मेकअप के फेरा अरघ के बेरा (Makeup Ke Phera)",
+    "artist": "Khesari Lal Yadav & Priyanka Singh",
     "youtubeId": "JXnbpAY3igM",
     "category": "Modern"
   },
   {
-    "id": 97,
-    "title": "Khesari Lal Yadav Chhath Puja hit geet",
+    "id": 40,
+    "title": "बिहारी पिया (Bihari Piya Chhath Geet)",
     "artist": "Khesari Lal Yadav",
-    "youtubeId": "Z752z_dAQrY",
+    "youtubeId": "ITzJMPJHv-w",
+    "category": "Modern"
+  },
+  {
+    "id": 41,
+    "title": "जीतादी छठी माई (Jeetadi Chhathi Maai)",
+    "artist": "Khesari Lal Yadav",
+    "youtubeId": "D1xJmHEeoCc",
     "category": "Devotional"
   },
   {
-    "id": 98,
-    "title": "Khesari Lal Yadav & Kajal Raghwani छपरा मे छठ मनाएंगे Chhapra Chhat Manayenge - Stage Show",
+    "id": 42,
+    "title": "छपरा मे छठ मनाएंगे (Chhapra Chhat Manayenge)",
     "artist": "Khesari Lal Yadav",
     "youtubeId": "Kc0D3A5Rcd8",
     "category": "Modern"
   },
   {
-    "id": 99,
-    "title": "छपरा मे छठ मनाएंगे Chhapra Chhat Manayenge",
+    "id": 43,
+    "title": "छठ घाटे चली - ऑफिशियल (Chhath Ghate Chali HD)",
+    "artist": "Khesari Lal Yadav & Antra Singh Priyanka",
+    "youtubeId": "fCuHD3YBQKY",
+    "category": "Arghya / Sandhya Ghat"
+  },
+  {
+    "id": 44,
+    "title": "छपरा मे छठ मनाएंगे - ओरिजिनल ऑडियो (Chhapra Chhat Manayenge)",
     "artist": "Khesari Lal Yadav",
     "youtubeId": "vrd1cfI3w_4",
     "category": "Modern"
   },
   {
-    "id": 100,
-    "title": "Khesari Lal Yadav का पहला सुपरहिट छठ गीत 2025 - जीतादी छठी माई",
+    "id": 45,
+    "title": "खेसारी लाल यादव भोजपुरी छठ गीत संग्रह (Nonstop Jukebox)",
     "artist": "Khesari Lal Yadav",
-    "youtubeId": "D1xJmHEeoCc",
-    "category": "Modern"
+    "youtubeId": "a59A7FlnLZ8",
+    "category": "Devotional"
   },
   {
-    "id": 101,
-    "title": "Chhath Maiya Ho Sabkar",
+    "id": 46,
+    "title": "काँच ही बाँस के बहंगिया (Kaanch Hi Baans Ke Bahangiya)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "Eyq7vfxu4iA",
+    "category": "Bahangi"
+  },
+  {
+    "id": 47,
+    "title": "उगs हे सूरज देव (Uga Hai Suraj Dev)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "6e6Hp6R5SVU",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 48,
+    "title": "मारबो रे सुगवा धनुख से (Maarbo Re Sugva Dhanukh Se)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "jRsXRee52xw",
+    "category": "Devotional"
+  },
+  {
+    "id": 49,
+    "title": "सोने के खड़उआँ हे दीनानाथ (Sone Ke Khadaooan)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "8z4e9fB5J-o",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 50,
+    "title": "सोने के कटोरिया (Sone Ke Katoriya)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "5wJ6WkALK1c",
+    "category": "Devotional"
+  },
+  {
+    "id": 51,
+    "title": "अरघ के बेर (Aragh Ke Ber)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "fqlh99htTJA",
+    "category": "Arghya / Sandhya Ghat"
+  },
+  {
+    "id": 52,
+    "title": "उगs हे सुरुज देव - ओरिजिनल (Uga Hai Suraj Dev Video)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "8MzoVsjL4QU",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 53,
+    "title": "छठ पूजा के गीत (Chhath Pooja Ke Geet Jukebox)",
+    "artist": "Anuradha Paudwal & Kavita Paudwal",
+    "youtubeId": "3xE8-cSXO8E",
+    "category": "Devotional"
+  },
+  {
+    "id": 54,
+    "title": "बेस्ट ऑफ अनुराधा पौडवाल छठ गीत (Best of Anuradha Paudwal)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "poJwkanrYAU",
+    "category": "Devotional"
+  },
+  {
+    "id": 55,
+    "title": "काँचे ही बाँस के बहंगिया - क्लासिक (Bahangiya Classic)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "W-w55hqwyUs",
+    "category": "Bahangi"
+  },
+  {
+    "id": 56,
+    "title": "मारबो रे सुगवा - एचडी संस्करण (Maarbo Re Sugwa HD)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "OnoINkPrhK0",
+    "category": "Devotional"
+  },
+  {
+    "id": 57,
+    "title": "काँच ही बाँस के बहंगिया - लिरिकल (Kaanch Hi Baans Lyrical)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "XR-2NkJwrpk",
+    "category": "Bahangi"
+  },
+  {
+    "id": 58,
+    "title": "काँच ही बाँस के बहंगिया - विशेष (Bahangiya Special)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "3G4Ieyk7hV0",
+    "category": "Bahangi"
+  },
+  {
+    "id": 59,
+    "title": "सोने के खड़उआँ हे दीनानाथ - ओरिजिनल (Sone Ke Khadaooan)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "fcLmbSNIxF0",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 60,
+    "title": "अरघ के बेर - सम्पूर्ण वीडियो (Aragh Ke Ber Full Video)",
+    "artist": "Anuradha Paudwal",
+    "youtubeId": "N3u5P5PjKQU",
+    "category": "Arghya / Sandhya Ghat"
+  },
+  {
+    "id": 61,
+    "title": "चननी तनाए लागल (Chanani Tanaye Lagal)",
+    "artist": "Shilpi Raj",
+    "youtubeId": "B-JSzoDdDDI",
+    "category": "Devotional"
+  },
+  {
+    "id": 62,
+    "title": "आहे देव कवन देव (Aahe Dev Kavan Dev)",
+    "artist": "Shilpi Raj",
+    "youtubeId": "mAa3yDZ2x_A",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 63,
+    "title": "खोली नजरिया (Kholi Najariya)",
+    "artist": "Shilpi Raj",
+    "youtubeId": "_4zhuXzbGes",
+    "category": "Devotional"
+  },
+  {
+    "id": 64,
+    "title": "बहंगी लचकत जाए (Bahangi Lachkat Jaye)",
+    "artist": "Shilpi Raj",
+    "youtubeId": "CI5cKiI0tQo",
+    "category": "Bahangi"
+  },
+  {
+    "id": 65,
+    "title": "जुगे जुगे रही एहवात (Juge Juge Rahi Aehwat)",
+    "artist": "Shilpi Raj",
+    "youtubeId": "5CL3i5vzzrA",
+    "category": "Devotional"
+  },
+  {
+    "id": 66,
+    "title": "हिट्स ऑफ अंजलि भारद्वाज छठपूजा गीत (Hits Of Anjali Bhardwaj)",
+    "artist": "Anjali Bhardwaj",
+    "youtubeId": "MoAnLhiZbyk",
+    "category": "Devotional"
+  },
+  {
+    "id": 67,
+    "title": "ऐ माई भूख जाई छठ के परबिया (Ae Maai Bhookh Jaai)",
+    "artist": "Anjali Bhardwaj",
+    "youtubeId": "YG8Q2JCXxP4",
+    "category": "Devotional"
+  },
+  {
+    "id": 68,
+    "title": "चलले महादेव (Chalale Mahadev)",
+    "artist": "Anjali Bhardwaj",
+    "youtubeId": "vDWq3JpYZME",
+    "category": "Devotional"
+  },
+  {
+    "id": 69,
+    "title": "ए माई भूख जा छठ के बरतिया (Ae Maai Bhookh Ja Chhath)",
+    "artist": "Anjali Bhardwaj",
+    "youtubeId": "p2gCbQZqres",
+    "category": "Devotional"
+  },
+  {
+    "id": 70,
+    "title": "सात ही घोड़वा सूरुज देव (Saat Hi Ghodwa Suruj Dev)",
+    "artist": "Anjali Bhardwaj",
+    "youtubeId": "hU_5VFZETws",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 71,
+    "title": "के असो घाट प दउरा पहुँचायी (Ke Aso Ghat Pa Daura)",
+    "artist": "Pramod Premi Yadav",
+    "youtubeId": "OMxrW_T3EmQ",
+    "category": "Arghya / Sandhya Ghat"
+  },
+  {
+    "id": 72,
+    "title": "दउरा उठाबा माथ पS (Daura Uthaba Maath Pa)",
+    "artist": "Pramod Premi Yadav",
+    "youtubeId": "PdtaQB3P82Q",
+    "category": "Bahangi"
+  },
+  {
+    "id": 73,
+    "title": "छठ करब नईहरे (Chhath Karab Naihare)",
+    "artist": "Pramod Premi Yadav",
+    "youtubeId": "wluPfwEp294",
+    "category": "Devotional"
+  },
+  {
+    "id": 74,
+    "title": "खरना से धरना देले बाड़ी (Kharna Se Dharna Dele Badi)",
+    "artist": "Pramod Premi Yadav",
+    "youtubeId": "gWrsbnzDMjc",
+    "category": "Devotional"
+  },
+  {
+    "id": 75,
+    "title": "दउरा उठाबा माथ पS - ओरिजिनल (Daura Uthaba Maath Pa HD)",
+    "artist": "Pramod Premi Yadav",
+    "youtubeId": "3JpdK4jue4M",
+    "category": "Bahangi"
+  },
+  {
+    "id": 76,
+    "title": "कहवाँ पइबो सोने के कटरवा (Kahawa Paibo Sone Ke Katorwa)",
+    "artist": "Anu Dubey",
+    "youtubeId": "pp0bO8uro64",
+    "category": "Devotional"
+  },
+  {
+    "id": 77,
+    "title": "कोपी कोपी बोलेली छठी मईया (Kopi Kopi Boleli)",
+    "artist": "Anu Dubey",
+    "youtubeId": "BktbNj2TzPs",
+    "category": "Devotional"
+  },
+  {
+    "id": 78,
+    "title": "सवा लाख के साड़ी भीजे (Sawa Laakh Ke Saadi Bhije)",
+    "artist": "Anu Dubey",
+    "youtubeId": "Wn7Hxy5DeRM",
+    "category": "Devotional"
+  },
+  {
+    "id": 79,
+    "title": "मोरा भईया जायेला (Mora Bhaiya Jayela)",
+    "artist": "Anu Dubey",
+    "youtubeId": "uHtIiyOgIs8",
+    "category": "Bahangi"
+  },
+  {
+    "id": 80,
+    "title": "कर एक बार छठ त्योहार (Kara Ek Baar Chhath Tyohar)",
+    "artist": "Kalpana Patowary",
+    "youtubeId": "VMJzESpDQYU",
+    "category": "Devotional"
+  },
+  {
+    "id": 81,
+    "title": "उगी हे दीनानाथ (Ugi Hey Dinanath)",
+    "artist": "Kalpana Patowary",
+    "youtubeId": "FGQ0SCK1AtE",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 82,
+    "title": "दर्शन देखाई दीही (Darshan Dekhai Deehi)",
+    "artist": "Kalpana Patowary",
+    "youtubeId": "T_YXL_blE3A",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 83,
+    "title": "उगे हे सुरुजदेव (Devo Chhath Uga Hey Surujdev)",
+    "artist": "Kalpana Patowary",
+    "youtubeId": "2RR-GcqTfhU",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 84,
+    "title": "काठ के रे नइया (Kath Ke Re Naiyiya)",
+    "artist": "Kalpana Patowary",
+    "youtubeId": "21CUPJCqx7g",
+    "category": "Devotional"
+  },
+  {
+    "id": 85,
+    "title": "उगs हे सुरुज देव (Uga Hai Suruj Dev)",
+    "artist": "Kalpana Patowary",
+    "youtubeId": "qVCW7PhpcNA",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 86,
+    "title": "गरीब के छठ (Garib Ke Chhath)",
+    "artist": "Aashish Yadav",
+    "youtubeId": "PX5MbIVLqTQ",
+    "category": "Devotional"
+  },
+  {
+    "id": 87,
+    "title": "केकर घर के फुलवा (Kekar Ghar Ke Phulwa)",
+    "artist": "Aashish Yadav",
+    "youtubeId": "qjzjmFIJemE",
+    "category": "Devotional"
+  },
+  {
+    "id": 88,
+    "title": "अरमानी (Armani Chhath Song)",
+    "artist": "Aashish Yadav",
+    "youtubeId": "-otXHjJwtxc",
+    "category": "Devotional"
+  },
+  {
+    "id": 89,
+    "title": "करबो छठ के बरतिया (Karbo Chhath Ke Baratiya)",
+    "artist": "Aashish Yadav",
+    "youtubeId": "HYtsC715lFY",
+    "category": "Devotional"
+  },
+  {
+    "id": 90,
+    "title": "माई भुखल छठ (Maai Bhukhal Chhath)",
+    "artist": "Aashish Yadav",
+    "youtubeId": "yiufbYHXjAo",
+    "category": "Devotional"
+  },
+  {
+    "id": 91,
+    "title": "छठी मईया के दिहल ललनवा (Chhathi Maiya Ke Dihal Lalanwa)",
+    "artist": "Manoj Tiwari",
+    "youtubeId": "kfp_31_8d2Y",
+    "category": "Devotional"
+  },
+  {
+    "id": 92,
+    "title": "दउरा लिहलीं सजाय (Daura Lihali Sajaay)",
+    "artist": "Manoj Tiwari",
+    "youtubeId": "hSFhpU7izGI",
+    "category": "Bahangi"
+  },
+  {
+    "id": 93,
+    "title": "छठ मईया हो सबकर (Chhath Maiya Ho Sabkar)",
     "artist": "Manoj Tiwari",
     "youtubeId": "pfnYiKDDauY",
     "category": "Devotional"
   },
   {
-    "id": 102,
-    "title": "जय छठ मईया - मनोज तिवारी का सुपरहिट पारम्परिक छठ गीत - Manoj Tiwari Bhojpuri Chhath Geet 2021",
+    "id": 94,
+    "title": "जय छठ मईया (Jai Chhath Maiya)",
     "artist": "Manoj Tiwari",
     "youtubeId": "g7eklwNpZqw",
     "category": "Devotional"
   },
   {
-    "id": 103,
-    "title": "VIDEO JUKEBOX - MANOJ TIWARI 'MRIDUL'",
+    "id": 95,
+    "title": "छठी मईया के दिहल ललनवा - वीडियो ज्यूकबॉक्स (Video Jukebox)",
     "artist": "Manoj Tiwari",
     "youtubeId": "JmI57xNgvbA",
     "category": "Devotional"
   },
   {
-    "id": 104,
-    "title": "छठ 2019 का सबसे बड़ा धमाल पहली बार एक मंच पे मनोज तिवारी जी और खेसारी लाल यादव का सुपरहिट छठ गीत",
+    "id": 96,
+    "title": "कहाँ पइबो झलरी ओहार (Kahan Paibo Jhalari Ohaar)",
     "artist": "Manoj Tiwari",
+    "youtubeId": "NheNjnNp0cg",
+    "category": "Devotional"
+  },
+  {
+    "id": 97,
+    "title": "छठी मईया के दिहल ललनवा - क्लासिक (Classic Track)",
+    "artist": "Manoj Tiwari",
+    "youtubeId": "JWEgsp2x9NU",
+    "category": "Devotional"
+  },
+  {
+    "id": 98,
+    "title": "मनोज तिवारी और खेसारी लाल छठ महोत्सव (Chhath Mahotsav)",
+    "artist": "Manoj Tiwari & Khesari Lal Yadav",
     "youtubeId": "CiVI2Qi6DlM",
     "category": "Devotional"
   },
   {
-    "id": 105,
-    "title": "Kahan Paibo Jhalari Ohaar  Chhati Maiya Ke Dihal Lalanva",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "NheNjnNp0cg",
-    "category": "Bahangi"
+    "id": 99,
+    "title": "सोना सुरुजदेव (Sona Surujdev)",
+    "artist": "Maithili Thakur",
+    "youtubeId": "Li8bbUM9bqI",
+    "category": "Morning Surya"
   },
   {
-    "id": 106,
-    "title": "Chhati Maiya Ke Dihal Lalanva  Chhati Maiya Ke Dihal Lalanva",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "JWEgsp2x9NU",
-    "category": "Bahangi"
+    "id": 100,
+    "title": "सोना सतकुनिया हो दीनानाथ (Sona Satkuniya Ho Dinanaath)",
+    "artist": "Maithili Thakur",
+    "youtubeId": "fwX2g9jjo1o",
+    "category": "Morning Surya"
   },
   {
-    "id": 107,
-    "title": "Kaanch Hi Baans Ke Supali",
-    "artist": "Sharda Sinha",
-    "youtubeId": "BKoD7bTLc2k",
-    "category": "Bahangi"
+    "id": 101,
+    "title": "बाजन बाजे शहनैय्या (Baajan Baaje Shahnaiyya)",
+    "artist": "Maithili Thakur & Family",
+    "youtubeId": "T3sQQtYLnxs",
+    "category": "Devotional"
   },
   {
-    "id": 108,
-    "title": "Ghat Sobhela Chhathi Mai Ke",
-    "artist": "Pawan Singh",
-    "youtubeId": "OrlnX9zM5-k",
+    "id": 102,
+    "title": "उगी हे दीनानाथ (Ugi Hey Dinanath)",
+    "artist": "Maithili Thakur",
+    "youtubeId": "vSJO-AElAog",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 103,
+    "title": "पटना के घाट पर (Patna Ke Ghat Par)",
+    "artist": "Maithili Thakur",
+    "youtubeId": "S80_EEIeOXI",
     "category": "Arghya / Sandhya Ghat"
   },
   {
+    "id": 104,
+    "title": "छठ करे आई (Chhath Kare Aai)",
+    "artist": "Ritesh Pandey & Antra Singh Priyanka",
+    "youtubeId": "_RmXRahCVI4",
+    "category": "Devotional"
+  },
+  {
+    "id": 105,
+    "title": "करेलु छठ बरतिया (Karelu Chhath Baratiya)",
+    "artist": "Ritesh Pandey & Shilpi Raj",
+    "youtubeId": "dYT5y5d9gFE",
+    "category": "Devotional"
+  },
+  {
+    "id": 106,
+    "title": "कातिक मास छठ करs धनिया (Kaatik Maas Chhath Kara Dhaniya)",
+    "artist": "Ritesh Pandey",
+    "youtubeId": "z110W955D6E",
+    "category": "Devotional"
+  },
+  {
+    "id": 107,
+    "title": "लालकी किरिनिया (Lalki Kiriniya)",
+    "artist": "Ritesh Pandey",
+    "youtubeId": "1P0xY1lB-3c",
+    "category": "Morning Surya"
+  },
+  {
+    "id": 108,
+    "title": "चाही नाही अन धन खजनवा (Chahi Nahi Aan Dhan Khajanwa)",
+    "artist": "Arvind Akela Kallu & Nisha Ji",
+    "youtubeId": "wXv2MyuVOZQ",
+    "category": "Bahangi"
+  },
+  {
     "id": 109,
-    "title": "Pujab Chhathi Maiya Ke Charanwa",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "3xE8-cSXO8E",
+    "title": "करा तानी पहिला बरतिया (Kara Tani Pahila Baratiya)",
+    "artist": "Arvind Akela Kallu & Priyanka Singh",
+    "youtubeId": "q2H71hwnqV4",
     "category": "Devotional"
   },
   {
     "id": 110,
-    "title": "Sandhya Ghat Par Deep Jalave",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "poJwkanrYAU",
-    "category": "Arghya / Sandhya Ghat"
+    "title": "स्टारों का छठ (Staron Ka Chhath)",
+    "artist": "Arvind Akela Kallu & Antra Singh Priyanka",
+    "youtubeId": "27ql9apTxBU",
+    "category": "Modern"
   },
   {
     "id": 111,
-    "title": "Ghat Shobhela Pawan Chhath Me",
-    "artist": "Aashish Yadav",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Arghya / Sandhya Ghat"
+    "title": "करे माई कठिन बरतिया (Kare Mai Kathin Baratiya)",
+    "artist": "Swati Mishra",
+    "youtubeId": "sIAgTGsgLHI",
+    "category": "Devotional"
   },
   {
     "id": 112,
-    "title": "Pujele Suruj Dev Jag Sara",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "FPDKM5NidYM",
+    "title": "उगी हे दीनानाथ (Ugi Hey Dinanath)",
+    "artist": "Swati Mishra",
+    "youtubeId": "px11PiCUUy8",
     "category": "Morning Surya"
   },
   {
     "id": 113,
-    "title": "Balamua Aragh Dele Bhorva Me",
-    "artist": "Shilpi Raj",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Morning Surya"
+    "title": "जोड़े जोड़े फलवा सुरुज देव (Jode Jode Falwa)",
+    "artist": "Swati Mishra",
+    "youtubeId": "2Uh-rMxhBLY",
+    "category": "Bahangi"
   },
   {
     "id": 114,
-    "title": "Suna Chhathi Maiya Dukh Har Lihi",
-    "artist": "Anu Dubey",
-    "youtubeId": "kfp_31_8d2Y",
+    "title": "स्वाति मिश्रा छठ गीत नॉनस्टॉप (Nonstop Chhath Jukebox)",
+    "artist": "Swati Mishra",
+    "youtubeId": "FZB5yjjpUUo",
     "category": "Devotional"
   },
   {
     "id": 115,
-    "title": "Devo Chhath Uga Hey Surujdev (Sangeetanjali)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "sIAgTGsgLHI",
-    "category": "Morning Surya"
+    "title": "छठी मईया बुलाये (Chhathi Maiya Bulaye)",
+    "artist": "Vishal Mishra",
+    "youtubeId": "OrlnX9zM5-k",
+    "category": "Modern"
   },
   {
     "id": 116,
-    "title": "Chhath Pooja Special Aragh Ke Ber",
-    "artist": "Anuradha Paudwal",
+    "title": "छठी मैया (Chhathi Maiya)",
+    "artist": "Akshara Singh",
     "youtubeId": "wD4ptJDaa8c",
-    "category": "Arghya / Sandhya Ghat"
+    "category": "Devotional"
   },
   {
     "id": 117,
-    "title": "Kare Mai Kathin Baratiya (Parv Geet)",
-    "artist": "Swati Mishra",
-    "youtubeId": "j9G3caThH98",
+    "title": "का करि दीनानाथ (Ka Kari Deenanath)",
+    "artist": "Akshara Singh",
+    "youtubeId": "O6Kdu98-qOE",
     "category": "Devotional"
   },
   {
     "id": 118,
-    "title": "Kelwa Ke Paat Par Maithili Thakur",
-    "artist": "Maithili Thakur",
-    "youtubeId": "4zGf90U-K5k",
-    "category": "Arghya / Sandhya Ghat"
+    "title": "काँच ही बांस के बहंगिया (Kaanch Hi Baans Ke Bahangiya)",
+    "artist": "Akshara Singh",
+    "youtubeId": "qPPhTg0WBMw",
+    "category": "Bahangi"
   },
   {
     "id": 119,
-    "title": "Ugi Hey Dinanath Suruj Gosai",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "E5r6y9mK2QI",
-    "category": "Morning Surya"
+    "title": "फुटी फुटी रोवे निरधनिया (Futi Futi Rowe Nirdhaniya)",
+    "artist": "Akshara Singh",
+    "youtubeId": "PL2eykuoUbI",
+    "category": "Devotional"
   },
   {
     "id": 120,
-    "title": "Bahangi Leke Chali Bhor Me",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "1bBv78X1jLQ",
-    "category": "Bahangi"
-  },
-  {
-    "id": 121,
-    "title": "Arghya Dehab Suruj Gosai Ke",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "GvE8L6y9YvE",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 122,
-    "title": "Chhath Puja Special Gunjan Singh",
-    "artist": "Gunjan Singh",
-    "youtubeId": "Zk91f4_5KxY",
+    "title": "गाम के अधिकारी तोहें बड़का भैया हो (Gaam Ke Adhikari)",
+    "artist": "Poonam Mishra",
+    "youtubeId": "A9VXTD8HPDA",
     "category": "Devotional"
-  },
-  {
-    "id": 123,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra",
-    "artist": "Vishal Mishra",
-    "youtubeId": "9mZkQ2xP1oA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 124,
-    "title": "Suruj Dev Aarti Sonu Nigam",
-    "artist": "Sonu Nigam",
-    "youtubeId": "k7wE9yQ2vLA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 125,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "7eK8r4xL1vY",
-    "category": "Modern"
-  },
-  {
-    "id": 126,
-    "title": "Ganga Maiya Me Jab Tak",
-    "artist": "Sharda Sinha",
-    "youtubeId": "u9mY3xL2vLA",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 127,
-    "title": "Mathe Daura Uthai Ke Chhath Ghate",
-    "artist": "Pawan Singh",
-    "youtubeId": "b6vL9eK1xQA",
-    "category": "Bahangi"
-  },
-  {
-    "id": 128,
-    "title": "Chhathi Maiya Ke Kripa Bada Bhaari",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "3vK8rL9eX1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 129,
-    "title": "Kekra Khatir Karab Singaar Ghate",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "1eL8vK2xQ9A",
-    "category": "Modern"
-  },
-  {
-    "id": 130,
-    "title": "Ganga Kinare Chhath Bhaari",
-    "artist": "Aashish Yadav",
-    "youtubeId": "8eK1xL9vQ2A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 131,
-    "title": "Hey Diwakar Aragh Swikari",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "9vL2eK1xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 132,
-    "title": "Lachke Kawan Kawan Kanch Bans",
-    "artist": "Shilpi Raj",
-    "youtubeId": "2eK8vL1xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 133,
-    "title": "Kosi Mor Bhar Da Maiya Hey",
-    "artist": "Anu Dubey",
-    "youtubeId": "7vL1eK2xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 134,
-    "title": "Jode Jode Falwa Chadhaib",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "6eK2vL8xQ1A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 135,
-    "title": "Bhojpuri Chhath Sagar",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "4eL1vK9xQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 136,
-    "title": "Kare Mai Kathin Baratiya (Dhun)",
-    "artist": "Swati Mishra",
-    "youtubeId": "5eK9vL2xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 137,
-    "title": "Uga Ho Dinanath Maithili Bhajan",
-    "artist": "Maithili Thakur",
-    "youtubeId": "3eL2vK8xQ1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 138,
-    "title": "Chhath Ghate Ganga Maiya",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "1eK8vL2xQ9A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 139,
-    "title": "Bahangi Leke Chali Bhor Me (Vol. 3)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "8vL1eK9xQ2A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 140,
-    "title": "Chhathi Maiya Ke Kripa Rahe",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "2eK1vL8xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 141,
-    "title": "Sona Satorwa Ke Daura Sajali",
-    "artist": "Gunjan Singh",
-    "youtubeId": "7eL2vK1xQ8A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 142,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra (Auspicious Geet)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "9eK1vL2xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 143,
-    "title": "Chhathi Maiya Suni Vinti Sonu Nigam",
-    "artist": "Sonu Nigam",
-    "youtubeId": "4vL2eK1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 144,
-    "title": "Ganga Maiya Arghya Jubin Nautiyal",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "6eL1vK2xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 145,
-    "title": "Diya Baati Jagmagave Ghat",
-    "artist": "Sharda Sinha",
-    "youtubeId": "5vL2eK9xQ1A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 146,
-    "title": "Sobhela Ghatwa Ganga Maiya Ke",
-    "artist": "Pawan Singh",
-    "youtubeId": "3vL1eK8xQ2A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 147,
-    "title": "Lachke Kawan Kawan Bahangiya Ke Daal",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "8eL2vK1xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 148,
-    "title": "Sandhya Ghat Par Deep Jalave (Part 3)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "1vL8eK2xQ9A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 149,
-    "title": "Ugi Suraj Gosaiya Bhaile Bihan",
-    "artist": "Aashish Yadav",
-    "youtubeId": "2vL1eK8xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 150,
-    "title": "Bahangi Chhathi Ghate Leke Chali",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "7eK2vL1xQ8A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 151,
-    "title": "Saiya Ji Leke Daura Chali",
-    "artist": "Shilpi Raj",
-    "youtubeId": "DG8F-csoRAQ",
-    "category": "Bahangi"
-  },
-  {
-    "id": 152,
-    "title": "Maiya Mori Daya Rakhiha",
-    "artist": "Anu Dubey",
-    "youtubeId": "knZ8b5YnQiY",
-    "category": "Devotional"
-  },
-  {
-    "id": 153,
-    "title": "Devo Chhath Uga Hey Surujdev (Maha Aarti)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "Eyq7vfxu4iA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 154,
-    "title": "Bhojpuri Chhath Sagar (Sangeetanjali)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "6e6Hp6R5SVU",
-    "category": "Devotional"
-  },
-  {
-    "id": 155,
-    "title": "Sona Surujdev (Morning Arghya) (Dhun)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "jRsXRee52xw",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 156,
-    "title": "Chhath Ghate Ganga Maiya (Parv Geet)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "fOVGz9WFymU",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 157,
-    "title": "Ghatwa Pe Chali Dhaniya",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "BKoD7bTLc2k",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 158,
-    "title": "Chhathi Maiya Ke Kripa Rahe (Vol. 4)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "OrlnX9zM5-k",
-    "category": "Devotional"
-  },
-  {
-    "id": 159,
-    "title": "Ghat Sobhela Magadh Ke",
-    "artist": "Gunjan Singh",
-    "youtubeId": "3xE8-cSXO8E",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 160,
-    "title": "Hathi Maiya Bulaye (Chhathi Maiya Bulaye) (Pavitra Bhajan)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "poJwkanrYAU",
-    "category": "Modern"
-  },
-  {
-    "id": 161,
-    "title": "Suruj Dev Aarti Sonu Nigam (Auspicious Geet)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 162,
-    "title": "Ganga Maiya Arghya Jubin Nautiyal (Ghat Special)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "FPDKM5NidYM",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 163,
-    "title": "Ganga Maiya Me Jab Tak (Maha Aarti)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 164,
-    "title": "Ghaate Chali Rangiye Bihan",
-    "artist": "Pawan Singh",
-    "youtubeId": "kfp_31_8d2Y",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 165,
-    "title": "Jode Jode Nariyal Leke Aaib",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "sIAgTGsgLHI",
-    "category": "Bahangi"
-  },
-  {
-    "id": 166,
-    "title": "Chhathi Ghate Aa Gaili Dhaniya",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "wD4ptJDaa8c",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 167,
-    "title": "Bhorwa Ke Arghya Vela",
-    "artist": "Aashish Yadav",
-    "youtubeId": "j9G3caThH98",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 168,
-    "title": "Diya Jale Ghat Pe Jagmag",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "4zGf90U-K5k",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 169,
-    "title": "Saiya Ji Leke Daura Chali (Live Ghat Version)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "E5r6y9mK2QI",
-    "category": "Bahangi"
-  },
-  {
-    "id": 170,
-    "title": "Suna Chhathi Maiya Dukh Har Lihi (Pavitra Bhajan)",
-    "artist": "Anu Dubey",
-    "youtubeId": "1bBv78X1jLQ",
-    "category": "Devotional"
-  },
-  {
-    "id": 171,
-    "title": "Sandhya Arghya Ke Pavan Vela",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "GvE8L6y9YvE",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 172,
-    "title": "Ganga Tat Pe Baithal Vrati",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "Zk91f4_5KxY",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 173,
-    "title": "Chhathi Maiya Bulaye Re Vratiya",
-    "artist": "Swati Mishra",
-    "youtubeId": "9mZkQ2xP1oA",
-    "category": "Modern"
-  },
-  {
-    "id": 174,
-    "title": "Uga Ho Dinanath Maithili Bhajan (Sangeetanjali)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "k7wE9yQ2vLA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 175,
-    "title": "Chhath Maiya Dihali Lalanwa",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "7eK8r4xL1vY",
-    "category": "Devotional"
-  },
-  {
-    "id": 176,
-    "title": "Chhathi Ghate Dhamaka Ba",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "u9mY3xL2vLA",
-    "category": "Modern"
-  },
-  {
-    "id": 177,
-    "title": "Chhathi Maiya Ke Kripa Rahe (Part 4)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "b6vL9eK1xQA",
-    "category": "Devotional"
-  },
-  {
-    "id": 178,
-    "title": "Suruj Dev Ke Pujanwa",
-    "artist": "Gunjan Singh",
-    "youtubeId": "3vK8rL9eX1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 179,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra (Live Ghat Version)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "1eL8vK2xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 180,
-    "title": "Suruj Dev Aarti Sonu Nigam (Pavitra Bhajan)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "8eK1xL9vQ2A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 181,
-    "title": "Ganga Maiya Arghya Jubin Nautiyal (Auspicious Geet)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "9vL2eK1xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 182,
-    "title": "Patna Ke Ghatwa Par Nariyal",
-    "artist": "Sharda Sinha",
-    "youtubeId": "2eK8vL1xQ9A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 183,
-    "title": "Ghat Sobhela Chhathi Mai Ke (Maha Aarti)",
-    "artist": "Pawan Singh",
-    "youtubeId": "7vL1eK2xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 184,
-    "title": "Ugi Hey Dinanath Suruj Gosai (Sangeetanjali)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "6eK2vL8xQ1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 185,
-    "title": "Kosi Bharab Chhathi Ghate",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "4eL1vK9xQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 186,
-    "title": "Kosiya Bhare Aai Aashish (Parv Geet)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "5eK9vL2xQ1A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 187,
-    "title": "Ugi He Dinanath Bhore Bhore",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "3eL2vK8xQ1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 188,
-    "title": "Maiya Ke Pujanwa Sabse Pavitra",
-    "artist": "Shilpi Raj",
-    "youtubeId": "1eK8vL2xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 189,
-    "title": "Chhathi Maiya Ke Pavan Vrat",
-    "artist": "Anu Dubey",
-    "youtubeId": "8vL1eK9xQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 190,
-    "title": "Jode Jode Falwa Chadhaib (Pavitra Bhajan)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "2eK1vL8xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 191,
-    "title": "Kaanch Hi Bans Ke Bahangiya (Auspicious Geet)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "7eL2vK1xQ8A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 192,
-    "title": "Kare Mai Kathin Baratiya (Ghat Special)",
-    "artist": "Swati Mishra",
-    "youtubeId": "9eK1vL2xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 193,
-    "title": "Sona Surujdev (Morning Arghya) (Maha Aarti)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "4vL2eK1xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 194,
-    "title": "Chhath Ghate Ganga Maiya (Sangeetanjali)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "6eL1vK2xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 195,
-    "title": "Ghatwa Pe Chali Dhaniya (Dhun)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "5vL2eK9xQ1A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 196,
-    "title": "Daura Uthai Ke Chhath Ghate",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "3vL1eK8xQ2A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 197,
-    "title": "Bole Chhathi Maiya Ke Jaykaara",
-    "artist": "Gunjan Singh",
-    "youtubeId": "8eL2vK1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 198,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra (Vol. 4)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "1vL8eK2xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 199,
-    "title": "Suruj Dev Aarti Sonu Nigam (Live Ghat Version)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "2vL1eK8xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 200,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Pavitra Bhajan)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "7eK2vL1xQ8A",
-    "category": "Modern"
-  },
-  {
-    "id": 201,
-    "title": "Bahangi Lachkat Jaye Hey Dinanath",
-    "artist": "Sharda Sinha",
-    "youtubeId": "DG8F-csoRAQ",
-    "category": "Bahangi"
-  },
-  {
-    "id": 202,
-    "title": "Sobhela Ghatwa Ganga Maiya Ke (Maha Aarti)",
-    "artist": "Pawan Singh",
-    "youtubeId": "knZ8b5YnQiY",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 203,
-    "title": "Chhathi Ghate Dj Bajega Ratiya",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "Eyq7vfxu4iA",
-    "category": "Modern"
-  },
-  {
-    "id": 204,
-    "title": "Sandhya Ghat Par Deep Jalave (Dhun)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "6e6Hp6R5SVU",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 205,
-    "title": "Puje Chhathi Mai Ke Pura Pariwar",
-    "artist": "Aashish Yadav",
-    "youtubeId": "jRsXRee52xw",
-    "category": "Devotional"
-  },
-  {
-    "id": 206,
-    "title": "Hey Diwakar Aragh Swikari (Part 5)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "fOVGz9WFymU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 207,
-    "title": "Maiya Ke Pujanwa Sabse Pavitra (Vol. 5)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "BKoD7bTLc2k",
-    "category": "Devotional"
-  },
-  {
-    "id": 208,
-    "title": "Lalanwa Ke Aashish De Da",
-    "artist": "Anu Dubey",
-    "youtubeId": "OrlnX9zM5-k",
-    "category": "Devotional"
-  },
-  {
-    "id": 209,
-    "title": "Kosi Bharab Hamre Anganwa",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "3xE8-cSXO8E",
-    "category": "Devotional"
-  },
-  {
-    "id": 210,
-    "title": "Suraj Dev Ke Aarti",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "poJwkanrYAU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 211,
-    "title": "Suruj Baba Ke Aragh Dehab",
-    "artist": "Swati Mishra",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 212,
-    "title": "Ugi Hey Dinanath Suruj Gosai (Maha Aarti)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "FPDKM5NidYM",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 213,
-    "title": "Suruj Dev Ke Mahima Bada Bhaari",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 214,
-    "title": "Chhathi Maiya Ke Kripa Rahe (Dhun)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "kfp_31_8d2Y",
-    "category": "Devotional"
-  },
-  {
-    "id": 215,
-    "title": "Suruj Dev Ke Pujanwa (Parv Geet)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "sIAgTGsgLHI",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 216,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra (Part 5)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "wD4ptJDaa8c",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 217,
-    "title": "Suruj Dev Aarti Sonu Nigam (Vol. 5)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "j9G3caThH98",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 218,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Live Ghat Version)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "4zGf90U-K5k",
-    "category": "Modern"
-  },
-  {
-    "id": 219,
-    "title": "Hey Chhathi Maiya Suni Pukar",
-    "artist": "Sharda Sinha",
-    "youtubeId": "E5r6y9mK2QI",
-    "category": "Devotional"
-  },
-  {
-    "id": 220,
-    "title": "Chhathi Maiya Ke Baratiya (Auspicious Geet)",
-    "artist": "Pawan Singh",
-    "youtubeId": "1bBv78X1jLQ",
-    "category": "Devotional"
-  },
-  {
-    "id": 221,
-    "title": "Arghya Ke Berwa Bhael Bihan",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "GvE8L6y9YvE",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 222,
-    "title": "Bahangiya Lachkat Aave Ghate",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "Zk91f4_5KxY",
-    "category": "Bahangi"
-  },
-  {
-    "id": 223,
-    "title": "Suruj Dev Aragh Leli Hamar",
-    "artist": "Aashish Yadav",
-    "youtubeId": "9mZkQ2xP1oA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 224,
-    "title": "Diya Jale Ghat Pe Jagmag (Dhun)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "k7wE9yQ2vLA",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 225,
-    "title": "Shilpi Raj Ke Chhath Geet Dhamaka",
-    "artist": "Shilpi Raj",
-    "youtubeId": "7eK8r4xL1vY",
-    "category": "Modern"
-  },
-  {
-    "id": 226,
-    "title": "Bagiya Me Bole Koyaliya (Part 5)",
-    "artist": "Anu Dubey",
-    "youtubeId": "u9mY3xL2vLA",
-    "category": "Devotional"
-  },
-  {
-    "id": 227,
-    "title": "Hey Diwakar Kripa Banai Rakhiha",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "b6vL9eK1xQA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 228,
-    "title": "Hey Chhathi Maiya Suni Arajiya Hamar",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "3vK8rL9eX1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 229,
-    "title": "Kelwa Ke Paat Swati Mishra Special",
-    "artist": "Swati Mishra",
-    "youtubeId": "1eL8vK2xQ9A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 230,
-    "title": "Sona Surujdev (Morning Arghya) (Auspicious Geet)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "8eK1xL9vQ2A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 231,
-    "title": "Chhath Ghate Ganga Maiya (Ghat Special)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "9vL2eK1xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 232,
-    "title": "Suruj Dev Ke Mahima Bada Bhaari (Maha Aarti)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "2eK8vL1xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 233,
-    "title": "Ghat Sajaweli Dhaniya Hamar",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "7vL1eK2xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 234,
-    "title": "Ghat Sobhela Magadh Ke (Dhun)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "6eK2vL8xQ1A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 235,
-    "title": "Hathi Maiya Bulaye (Chhathi Maiya Bulaye) (Parv Geet)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "4eL1vK9xQ2A",
-    "category": "Modern"
-  },
-  {
-    "id": 236,
-    "title": "Suruj Dev Aarti Sonu Nigam (Part 5)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "5eK9vL2xQ1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 237,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Vol. 5)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "3eL2vK8xQ1A",
-    "category": "Modern"
-  },
-  {
-    "id": 238,
-    "title": "Ganga Maiya Me Jab Tak (Live Ghat Version)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "1eK8vL2xQ9A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 239,
-    "title": "Lali Chhath Ghate Aaib Ho",
-    "artist": "Pawan Singh",
-    "youtubeId": "8vL1eK9xQ2A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 240,
-    "title": "Lachke Kawan Kawan Bahangiya Ke Daal (Auspicious Geet)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "2eK1vL8xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 241,
-    "title": "Pramod Premi Chhath Utsav",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "7eL2vK1xQ8A",
-    "category": "Modern"
-  },
-  {
-    "id": 242,
-    "title": "Kosi Ke Diva Jagmagave",
-    "artist": "Aashish Yadav",
-    "youtubeId": "9eK1vL2xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 243,
-    "title": "Sujhata Chhathi Ghate Sab Manokamna",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "4vL2eK1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 244,
-    "title": "Nariyal Supwa Sajawle Bani",
-    "artist": "Shilpi Raj",
-    "youtubeId": "6eL1vK2xQ8A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 245,
-    "title": "Chhathi Maiya Ke Pavan Vrat (Parv Geet)",
-    "artist": "Anu Dubey",
-    "youtubeId": "5vL2eK9xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 246,
-    "title": "Chhath Maiya Hoi Sahay Bhakt Par",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "3vL1eK8xQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 247,
-    "title": "Jode Jode Nariyal Leke Aayil Bani",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "8eL2vK1xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 248,
-    "title": "Ugi Hey Dinanath Swati Mishra",
-    "artist": "Swati Mishra",
-    "youtubeId": "1vL8eK2xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 249,
-    "title": "Chhath Geet Mithila Ke Parampara",
-    "artist": "Maithili Thakur",
-    "youtubeId": "2vL1eK8xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 250,
-    "title": "Chhath Ghate Ganga Maiya (Auspicious Geet)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "7eK2vL1xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 251,
-    "title": "Bhaile Arghya Ke Ber Balamua",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "DG8F-csoRAQ",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 252,
-    "title": "Arghya Dehab Suruj Gosai Ke (Sangeetanjali)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "knZ8b5YnQiY",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 253,
-    "title": "Hathi Maiya Bulaye (Chhathi Maiya Bulaye) (Dhun)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "Eyq7vfxu4iA",
-    "category": "Modern"
-  },
-  {
-    "id": 254,
-    "title": "Suruj Dev Aarti Sonu Nigam (Parv Geet)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "6e6Hp6R5SVU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 255,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Part 6)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "jRsXRee52xw",
-    "category": "Modern"
-  },
-  {
-    "id": 256,
-    "title": "Pawan Parav Chhath Maiya Ke",
-    "artist": "Sharda Sinha",
-    "youtubeId": "fOVGz9WFymU",
-    "category": "Devotional"
-  },
-  {
-    "id": 257,
-    "title": "Lali Chhath Ghate Aaib Ho (Live Ghat Version)",
-    "artist": "Pawan Singh",
-    "youtubeId": "BKoD7bTLc2k",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 258,
-    "title": "Arghya Ke Berwa Bhael Bihan (Pavitra Bhajan)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "OrlnX9zM5-k",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 259,
-    "title": "Pramod Premi Chhath Utsav (Auspicious Geet)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "3xE8-cSXO8E",
-    "category": "Modern"
-  },
-  {
-    "id": 260,
-    "title": "Puje Chhathi Mai Ke Pura Pariwar (Ghat Special)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "poJwkanrYAU",
-    "category": "Devotional"
-  },
-  {
-    "id": 261,
-    "title": "Bahangi Chhathi Ghate Leke Chali (Maha Aarti)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Bahangi"
-  },
-  {
-    "id": 262,
-    "title": "Maiya Ke Pujanwa Sabse Pavitra (Sangeetanjali)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "FPDKM5NidYM",
-    "category": "Devotional"
-  },
-  {
-    "id": 263,
-    "title": "Charan Dhovat Ganga Maiya",
-    "artist": "Anu Dubey",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 264,
-    "title": "Kalpana Patowary Chhath Mahaparv",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "kfp_31_8d2Y",
-    "category": "Devotional"
-  },
-  {
-    "id": 265,
-    "title": "Kaanch Hi Bans Ke Bahangiya (Part 6)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "sIAgTGsgLHI",
-    "category": "Bahangi"
-  },
-  {
-    "id": 266,
-    "title": "Ugi Hey Dinanath Swati Mishra (Vol. 6)",
-    "artist": "Swati Mishra",
-    "youtubeId": "wD4ptJDaa8c",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 267,
-    "title": "Uga Ho Dinanath Maithili Bhajan (Live Ghat Version)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "j9G3caThH98",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 268,
-    "title": "Chhathi Maiya Ke Pujan Sab Mil Kare",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "4zGf90U-K5k",
-    "category": "Devotional"
-  },
-  {
-    "id": 269,
-    "title": "Ghatwa Pe Chali Dhaniya (Auspicious Geet)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "E5r6y9mK2QI",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 270,
-    "title": "Daura Uthai Ke Chhath Ghate (Ghat Special)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "1bBv78X1jLQ",
-    "category": "Bahangi"
-  },
-  {
-    "id": 271,
-    "title": "Sona Satorwa Ke Daura Sajali (Maha Aarti)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "GvE8L6y9YvE",
-    "category": "Bahangi"
-  },
-  {
-    "id": 272,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra (Sangeetanjali)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "Zk91f4_5KxY",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 273,
-    "title": "Chhathi Maiya Suni Vinti Sonu Nigam (Dhun)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "9mZkQ2xP1oA",
-    "category": "Devotional"
-  },
-  {
-    "id": 274,
-    "title": "Ganga Maiya Arghya Jubin Nautiyal (Parv Geet)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "k7wE9yQ2vLA",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 275,
-    "title": "Kaanch Hi Baans Ke Supali (Part 6)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "7eK8r4xL1vY",
-    "category": "Bahangi"
-  },
-  {
-    "id": 276,
-    "title": "Mathe Daura Uthai Ke Chhath Ghate (Vol. 6)",
-    "artist": "Pawan Singh",
-    "youtubeId": "u9mY3xL2vLA",
-    "category": "Bahangi"
-  },
-  {
-    "id": 277,
-    "title": "Chhathi Ghate Dj Bajega Ratiya (Live Ghat Version)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "b6vL9eK1xQA",
-    "category": "Modern"
-  },
-  {
-    "id": 278,
-    "title": "Lali Suruj Dev Ke Nihari",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "3vK8rL9eX1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 279,
-    "title": "Suruj Dev Aragh Leli Hamar (Auspicious Geet)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "1eL8vK2xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 280,
-    "title": "Kanch Hi Baans Ke Bahangiya (Ghat Special)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "8eK1xL9vQ2A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 281,
-    "title": "Balamua Aragh Dele Bhorva Me (Maha Aarti)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "9vL2eK1xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 282,
-    "title": "Anu Dubey Chhath Geet Sangrah",
-    "artist": "Anu Dubey",
-    "youtubeId": "2eK8vL1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 283,
-    "title": "Kosi Bharab Hamre Anganwa (Dhun)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "7vL1eK2xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 284,
-    "title": "Hey Chhathi Maiya Suni Arajiya Hamar (Parv Geet)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "6eK2vL8xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 285,
-    "title": "Kare Mai Kathin Baratiya (Part 6)",
-    "artist": "Swati Mishra",
-    "youtubeId": "4eL1vK9xQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 286,
-    "title": "Sona Surujdev (Morning Arghya) (Vol. 6)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "5eK9vL2xQ1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 287,
-    "title": "Chhathi Maiya Ke Pujan Sab Mil Kare (Live Ghat Version)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "3eL2vK8xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 288,
-    "title": "Suruj Dev Ke Mahima Bada Bhaari (Pavitra Bhajan)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "1eK8vL2xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 289,
-    "title": "Ghat Sajaweli Dhaniya Hamar (Auspicious Geet)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "8vL1eK9xQ2A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 290,
-    "title": "Sona Satorwa Ke Daura Sajali (Ghat Special)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "2eK1vL8xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 291,
-    "title": "Hathi Maiya Bulaye (Chhathi Maiya Bulaye) (Maha Aarti)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "7eL2vK1xQ8A",
-    "category": "Modern"
-  },
-  {
-    "id": 292,
-    "title": "Suruj Dev Aarti Sonu Nigam (Sangeetanjali)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "9eK1vL2xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 293,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Dhun)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "4vL2eK1xQ9A",
-    "category": "Modern"
-  },
-  {
-    "id": 294,
-    "title": "Diya Baati Jagmagave Ghat (Parv Geet)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "6eL1vK2xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 295,
-    "title": "Kakra Khatir Karab Chhath Puja (Part 6)",
-    "artist": "Pawan Singh",
-    "youtubeId": "5vL2eK9xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 296,
-    "title": "Suruj Dev Ke Aragh Chadhaib",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "3vL1eK8xQ2A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 297,
-    "title": "Chhathi Maiya Ke Pujanwa Karab",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "8eL2vK1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 298,
-    "title": "Jode Jode Supwa Sajaye",
-    "artist": "Aashish Yadav",
-    "youtubeId": "1vL8eK2xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 299,
-    "title": "Sujhata Chhathi Ghate Sab Manokamna (Auspicious Geet)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "2vL1eK8xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 300,
-    "title": "Balamua Aragh Dele Bhorva Me (Ghat Special)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "7eK2vL1xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 301,
-    "title": "Dhire Dhire Bahe Purwaiya Ghate",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "DG8F-csoRAQ",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 302,
-    "title": "Hey Chhathi Maiya Suni Arajiya Hamar (Dhun)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "knZ8b5YnQiY",
-    "category": "Devotional"
-  },
-  {
-    "id": 303,
-    "title": "Suruj Baba Ke Aragh Dehab (Parv Geet)",
-    "artist": "Swati Mishra",
-    "youtubeId": "Eyq7vfxu4iA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 304,
-    "title": "Uga Ho Dinanath Maithili Bhajan (Part 7)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "6e6Hp6R5SVU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 305,
-    "title": "Kosi Bhare Chali Piya Ji",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "jRsXRee52xw",
-    "category": "Devotional"
-  },
-  {
-    "id": 306,
-    "title": "Suruj Dev Ke Mahima Bada Bhaari (Live Ghat Version)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "fOVGz9WFymU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 307,
-    "title": "Arghya Dehab Suruj Gosai Ke (Pavitra Bhajan)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "BKoD7bTLc2k",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 308,
-    "title": "Chhath Puja Special Gunjan Singh (Auspicious Geet)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "OrlnX9zM5-k",
-    "category": "Devotional"
-  },
-  {
-    "id": 309,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra (Ghat Special)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "3xE8-cSXO8E",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 310,
-    "title": "Suruj Dev Aarti Sonu Nigam (Maha Aarti)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "poJwkanrYAU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 311,
-    "title": "Ganga Maiya Arghya Jubin Nautiyal (Sangeetanjali)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 312,
-    "title": "Dukhwa Harin Hey Chhathi Maiya",
-    "artist": "Sharda Sinha",
-    "youtubeId": "FPDKM5NidYM",
-    "category": "Devotional"
-  },
-  {
-    "id": 313,
-    "title": "Mai Chhathi Ke Mahima Nirali",
-    "artist": "Pawan Singh",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Devotional"
-  },
-  {
-    "id": 314,
-    "title": "Pujali Chhathi Maiya Bhore Bhore",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "kfp_31_8d2Y",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 315,
-    "title": "Chhathi Ghate Aa Gaili Dhaniya (Vol. 7)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "sIAgTGsgLHI",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 316,
-    "title": "Daura Leke Chali Balamua Ghate",
-    "artist": "Aashish Yadav",
-    "youtubeId": "wD4ptJDaa8c",
-    "category": "Bahangi"
-  },
-  {
-    "id": 317,
-    "title": "Pahile Pahar Chhathi Maiya Vrat",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "j9G3caThH98",
-    "category": "Devotional"
-  },
-  {
-    "id": 318,
-    "title": "Patna Se Supali Mangaiha Balam",
-    "artist": "Shilpi Raj",
-    "youtubeId": "4zGf90U-K5k",
-    "category": "Bahangi"
-  },
-  {
-    "id": 319,
-    "title": "Lalanwa Ke Aashish De Da (Ghat Special)",
-    "artist": "Anu Dubey",
-    "youtubeId": "E5r6y9mK2QI",
-    "category": "Devotional"
-  },
-  {
-    "id": 320,
-    "title": "Sandhya Arghya Ke Pavan Vela (Maha Aarti)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "1bBv78X1jLQ",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 321,
-    "title": "Bahangi Sajawali Chhathi Ghate",
-    "artist": "Swati Mishra",
-    "youtubeId": "GvE8L6y9YvE",
-    "category": "Bahangi"
-  },
-  {
-    "id": 322,
-    "title": "Uga Ho Dinanath Maithili Bhajan (Dhun)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "Zk91f4_5KxY",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 323,
-    "title": "Chhathi Maiya Ke Pujan Sab Mil Kare (Parv Geet)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "9mZkQ2xP1oA",
-    "category": "Devotional"
-  },
-  {
-    "id": 324,
-    "title": "Bhaile Arghya Ke Ber Balamua (Part 7)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "k7wE9yQ2vLA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 325,
-    "title": "Daura Uthai Ke Chhath Ghate (Vol. 7)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "7eK8r4xL1vY",
-    "category": "Bahangi"
-  },
-  {
-    "id": 326,
-    "title": "Bole Chhathi Maiya Ke Jaykaara (Live Ghat Version)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "u9mY3xL2vLA",
-    "category": "Devotional"
-  },
-  {
-    "id": 327,
-    "title": "Chhathi Maiya Suni Vinti Sonu Nigam (Pavitra Bhajan)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "b6vL9eK1xQA",
-    "category": "Devotional"
-  },
-  {
-    "id": 328,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Auspicious Geet)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "3vK8rL9eX1A",
-    "category": "Modern"
-  },
-  {
-    "id": 329,
-    "title": "Suryodaya Ke Pavitra Vela",
-    "artist": "Sharda Sinha",
-    "youtubeId": "1eL8vK2xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 330,
-    "title": "Chhathi Maiya Ke Baratiya (Maha Aarti)",
-    "artist": "Pawan Singh",
-    "youtubeId": "8eK1xL9vQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 331,
-    "title": "Pujab Chhathi Maiya Ke Charanwa (Sangeetanjali)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "9vL2eK1xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 332,
-    "title": "Najar Dali Surajdev (Dhun)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "2eK8vL1xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 333,
-    "title": "Maiya Chhathi Sunli Arajiya",
-    "artist": "Aashish Yadav",
-    "youtubeId": "7vL1eK2xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 334,
-    "title": "Godi Me Lalanwa De Di Maiya",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "6eK2vL8xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 335,
-    "title": "Chhathi Maiya Ke Rang Badari",
-    "artist": "Shilpi Raj",
-    "youtubeId": "4eL1vK9xQ2A",
-    "category": "Modern"
-  },
-  {
-    "id": 336,
-    "title": "Anu Dubey Chhath Geet Sangrah (Live Ghat Version)",
-    "artist": "Anu Dubey",
-    "youtubeId": "5eK9vL2xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 337,
-    "title": "Ugi He Dinanath Bhore Bihan",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "3eL2vK8xQ1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 338,
-    "title": "Uga Hai Suraj Dev (Auspicious Geet)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "1eK8vL2xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 339,
-    "title": "Chhathi Maiya Bulaye Re Vratiya (Ghat Special)",
-    "artist": "Swati Mishra",
-    "youtubeId": "8vL1eK9xQ2A",
-    "category": "Modern"
-  },
-  {
-    "id": 340,
-    "title": "Chhath Geet Mithila Ke Parampara (Maha Aarti)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "2eK1vL8xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 341,
-    "title": "Chhathi Ghate Dhamaka Ba (Sangeetanjali)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "7eL2vK1xQ8A",
-    "category": "Modern"
-  },
-  {
-    "id": 342,
-    "title": "Kosi Ke Diva Jagmag Jagmag",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "9eK1vL2xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 343,
-    "title": "Sona Satorwa Ke Daura Sajali (Parv Geet)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "4vL2eK1xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 344,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra (Part 7)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "6eL1vK2xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 345,
-    "title": "Suruj Dev Aarti Sonu Nigam (Vol. 7)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "5vL2eK9xQ1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 346,
-    "title": "Pahile Pahil Hum Kailin Chhathi Maiya (Live Ghat Version)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "3vL1eK8xQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 347,
-    "title": "Mai Chhathi Ke Mahima Nirali (Pavitra Bhajan)",
-    "artist": "Pawan Singh",
-    "youtubeId": "8eL2vK1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 348,
-    "title": "Chhathi Maiya Ke Kripa Bada Bhaari (Auspicious Geet)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "1vL8eK2xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 349,
-    "title": "Ugi Ugi Suruj Gosai Bhorwa",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "2vL1eK8xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 350,
-    "title": "Maiya Chhathi Sunli Arajiya (Maha Aarti)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "7eK2vL1xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 351,
-    "title": "Arghya Ke Ber Ho Gayil Suruj Dev",
-    "artist": "Shilpi Raj",
-    "youtubeId": "DG8F-csoRAQ",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 352,
-    "title": "Lalanwa Ke Aashish De Da (Parv Geet)",
-    "artist": "Anu Dubey",
-    "youtubeId": "knZ8b5YnQiY",
-    "category": "Devotional"
-  },
-  {
-    "id": 353,
-    "title": "Kalpana Patowary Chhath Mahaparv (Part 8)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "Eyq7vfxu4iA",
-    "category": "Devotional"
-  },
-  {
-    "id": 354,
-    "title": "Aara Hilela Chhath Ghate",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "6e6Hp6R5SVU",
-    "category": "Modern"
-  },
-  {
-    "id": 355,
-    "title": "Ugi Hey Dinanath Swati Mishra (Live Ghat Version)",
-    "artist": "Swati Mishra",
-    "youtubeId": "jRsXRee52xw",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 356,
-    "title": "Bahangi Lachkat Jaye Traditional",
-    "artist": "Maithili Thakur",
-    "youtubeId": "fOVGz9WFymU",
-    "category": "Bahangi"
-  },
-  {
-    "id": 357,
-    "title": "Kosi Bhare Chali Piya Ji (Auspicious Geet)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "BKoD7bTLc2k",
-    "category": "Devotional"
-  },
-  {
-    "id": 358,
-    "title": "Ghatwa Pe Chali Dhaniya (Ghat Special)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "OrlnX9zM5-k",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 359,
-    "title": "Ghat Sajaweli Dhaniya Hamar (Maha Aarti)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "3xE8-cSXO8E",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 360,
-    "title": "Suruj Dev Ke Pujanwa (Sangeetanjali)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "poJwkanrYAU",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 361,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra (Dhun)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 362,
-    "title": "Chhathi Maiya Suni Vinti Sonu Nigam (Parv Geet)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "FPDKM5NidYM",
-    "category": "Devotional"
-  },
-  {
-    "id": 363,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Part 8)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Modern"
-  },
-  {
-    "id": 364,
-    "title": "Diya Baati Jagmagave Ghat (Vol. 8)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "kfp_31_8d2Y",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 365,
-    "title": "Mai Chhathi Ke Mahima Nirali (Live Ghat Version)",
-    "artist": "Pawan Singh",
-    "youtubeId": "sIAgTGsgLHI",
-    "category": "Devotional"
-  },
-  {
-    "id": 366,
-    "title": "Chhath Ghate Chali Piya",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "wD4ptJDaa8c",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 367,
-    "title": "Ghat Shobhela Pawan Chhath Me (Auspicious Geet)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "j9G3caThH98",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 368,
-    "title": "Diya Jale Ghat Pe Jagmag (Ghat Special)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "4zGf90U-K5k",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 369,
-    "title": "Ghatwa Sajal Ba Solah Singaar",
-    "artist": "Shilpi Raj",
-    "youtubeId": "E5r6y9mK2QI",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 370,
-    "title": "Maiya Mori Daya Rakhiha (Sangeetanjali)",
-    "artist": "Anu Dubey",
-    "youtubeId": "1bBv78X1jLQ",
-    "category": "Devotional"
-  },
-  {
-    "id": 371,
-    "title": "Ugi He Dinanath Bhore Bihan (Dhun)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "GvE8L6y9YvE",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 372,
-    "title": "Kelwa Ke Paat Par Ugelan Suruj Dev",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "Zk91f4_5KxY",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 373,
-    "title": "Suruj Baba Ke Aragh Dehab (Part 8)",
-    "artist": "Swati Mishra",
-    "youtubeId": "9mZkQ2xP1oA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 374,
-    "title": "Uga Ho Dinanath Maithili Bhajan (Vol. 8)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "k7wE9yQ2vLA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 375,
-    "title": "Chhath Ghate Ganga Maiya (Live Ghat Version)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "7eK8r4xL1vY",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 376,
-    "title": "Ghatwa Pe Chali Dhaniya (Pavitra Bhajan)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "u9mY3xL2vLA",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 377,
-    "title": "Chhathi Maiya Ke Kripa Rahe (Auspicious Geet)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "b6vL9eK1xQA",
-    "category": "Devotional"
-  },
-  {
-    "id": 378,
-    "title": "Chhath Puja Special Gunjan Singh (Ghat Special)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "3vK8rL9eX1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 379,
-    "title": "Suraj Dev Ke Darshan Vishal Mishra (Maha Aarti)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "1eL8vK2xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 380,
-    "title": "Chhathi Maiya Suni Vinti Sonu Nigam (Sangeetanjali)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "8eK1xL9vQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 381,
-    "title": "Ganga Maiya Arghya Jubin Nautiyal (Dhun)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "9vL2eK1xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 382,
-    "title": "Chhath Pooja Ke Shubh Aashirwad",
-    "artist": "Sharda Sinha",
-    "youtubeId": "2eK8vL1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 383,
-    "title": "Suruj Baba Ke Charniya Me",
-    "artist": "Pawan Singh",
-    "youtubeId": "7vL1eK2xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 384,
-    "title": "Jode Jode Nariyal Leke Aaib (Vol. 8)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "6eK2vL8xQ1A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 385,
-    "title": "Lali Suruj Dev Ke Nihari (Live Ghat Version)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "4eL1vK9xQ2A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 386,
-    "title": "Bahangiya Dhani Mathe Leke",
-    "artist": "Aashish Yadav",
-    "youtubeId": "5eK9vL2xQ1A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 387,
-    "title": "Godi Me Lalanwa De Di Maiya (Auspicious Geet)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "3eL2vK8xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 388,
-    "title": "Chhathi Maiya Ke Rang Badari (Ghat Special)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "1eK8vL2xQ9A",
-    "category": "Modern"
-  },
-  {
-    "id": 389,
-    "title": "Charan Dhovat Ganga Maiya (Maha Aarti)",
-    "artist": "Anu Dubey",
-    "youtubeId": "8vL1eK9xQ2A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 390,
-    "title": "Uga Hai Suraj Dev (Sangeetanjali)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "2eK1vL8xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 391,
-    "title": "Bahangi Sajawali Chhathi Ghate (Dhun)",
-    "artist": "Swati Mishra",
-    "youtubeId": "7eL2vK1xQ8A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 392,
-    "title": "Uga Ho Dinanath Maithili Bhajan (Parv Geet)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "9eK1vL2xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 393,
-    "title": "Kosi Bhare Chali Piya Ji (Part 8)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "4vL2eK1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 394,
-    "title": "Bhaile Arghya Ke Ber Balamua (Vol. 8)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "6eL1vK2xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 395,
-    "title": "Chhathi Maiya Ke Kripa Rahe (Live Ghat Version)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "5vL2eK9xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 396,
-    "title": "Bole Chhathi Maiya Ke Jaykaara (Pavitra Bhajan)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "3vL1eK8xQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 397,
-    "title": "Chhathi Maiya Suni Vinti Sonu Nigam (Auspicious Geet)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "8eL2vK1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 398,
-    "title": "Marbo Re Sugwa Dhanush Baan",
-    "artist": "Sharda Sinha",
-    "youtubeId": "1vL8eK2xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 399,
-    "title": "Chhathi Ghate Dj Bajega Ratiya (Maha Aarti)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "2vL1eK8xQ9A",
-    "category": "Modern"
-  },
-  {
-    "id": 400,
-    "title": "Kekra Khatir Karab Singaar Ghate (Sangeetanjali)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "7eK2vL1xQ8A",
-    "category": "Modern"
-  },
-  {
-    "id": 401,
-    "title": "Bhorwa Ke Arghya Vela (Parv Geet)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "DG8F-csoRAQ",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 402,
-    "title": "Kosi Bharai Hamro Angna Me",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "knZ8b5YnQiY",
-    "category": "Devotional"
-  },
-  {
-    "id": 403,
-    "title": "Suruj Gosai Aaihe Hamra Ghate",
-    "artist": "Shilpi Raj",
-    "youtubeId": "Eyq7vfxu4iA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 404,
-    "title": "Kosi Mor Bhar Da Maiya Hey (Live Ghat Version)",
-    "artist": "Anu Dubey",
-    "youtubeId": "6e6Hp6R5SVU",
-    "category": "Devotional"
-  },
-  {
-    "id": 405,
-    "title": "Ugi He Dinanath Bhore Bihan (Pavitra Bhajan)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "jRsXRee52xw",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 406,
-    "title": "Aan Baan Shaan Chhath Puja Ke",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "fOVGz9WFymU",
-    "category": "Devotional"
-  },
-  {
-    "id": 407,
-    "title": "Kelwa Ke Paat Swati Mishra Special (Ghat Special)",
-    "artist": "Swati Mishra",
-    "youtubeId": "BKoD7bTLc2k",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 408,
-    "title": "Kelwa Ke Paat Par Maithili Thakur (Maha Aarti)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "OrlnX9zM5-k",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 409,
-    "title": "Chhathi Maiya Ke Pujan Sab Mil Kare (Sangeetanjali)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "3xE8-cSXO8E",
-    "category": "Devotional"
-  },
-  {
-    "id": 410,
-    "title": "Ghat Sajaweli Dhaniya Hamar (Dhun)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "poJwkanrYAU",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 411,
-    "title": "Bole Chhathi Maiya Ke Jaykaara (Parv Geet)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Devotional"
-  },
-  {
-    "id": 412,
-    "title": "Hathi Maiya Bulaye (Chhathi Maiya Bulaye) (Part 9)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "FPDKM5NidYM",
-    "category": "Modern"
-  },
-  {
-    "id": 413,
-    "title": "Suruj Dev Aarti Sonu Nigam (Vol. 9)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 414,
-    "title": "Ganga Maiya Arghya Jubin Nautiyal (Live Ghat Version)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "kfp_31_8d2Y",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 415,
-    "title": "Utha Suruj Bhaile Bihaan",
-    "artist": "Sharda Sinha",
-    "youtubeId": "sIAgTGsgLHI",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 416,
-    "title": "Bahangi Chhathi Mai Ke Leke Chali",
-    "artist": "Pawan Singh",
-    "youtubeId": "wD4ptJDaa8c",
-    "category": "Bahangi"
-  },
-  {
-    "id": 417,
-    "title": "Saiya Arab Gaile Na (Chhath Geet) (Ghat Special)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "j9G3caThH98",
-    "category": "Modern"
-  },
-  {
-    "id": 418,
-    "title": "Najar Dali Surajdev (Maha Aarti)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "4zGf90U-K5k",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 419,
-    "title": "Puje Chhathi Mai Ke Pura Pariwar (Sangeetanjali)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "E5r6y9mK2QI",
-    "category": "Devotional"
-  },
-  {
-    "id": 420,
-    "title": "Godi Me Lalanwa De Di Maiya (Dhun)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "1bBv78X1jLQ",
-    "category": "Devotional"
-  },
-  {
-    "id": 421,
-    "title": "Maiya Ke Pujanwa Sabse Pavitra (Parv Geet)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "GvE8L6y9YvE",
-    "category": "Devotional"
-  },
-  {
-    "id": 422,
-    "title": "Kosi Mor Bhar Da Maiya Hey (Part 9)",
-    "artist": "Anu Dubey",
-    "youtubeId": "Zk91f4_5KxY",
-    "category": "Devotional"
-  },
-  {
-    "id": 423,
-    "title": "Kalpana Patowary Chhath Mahaparv (Vol. 9)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "9mZkQ2xP1oA",
-    "category": "Devotional"
-  },
-  {
-    "id": 424,
-    "title": "Aan Baan Shaan Chhath Puja Ke (Live Ghat Version)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "k7wE9yQ2vLA",
-    "category": "Devotional"
-  },
-  {
-    "id": 425,
-    "title": "Suruj Baba Ke Aragh Dehab (Pavitra Bhajan)",
-    "artist": "Swati Mishra",
-    "youtubeId": "7eK8r4xL1vY",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 426,
-    "title": "Bahangi Lachkat Jaye Traditional (Auspicious Geet)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "u9mY3xL2vLA",
-    "category": "Bahangi"
-  },
-  {
-    "id": 427,
-    "title": "Ugi Hey Dinanath Suruj Gosai (Ghat Special)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "b6vL9eK1xQA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 428,
-    "title": "Ghat Sobhela Magadh Ke (Maha Aarti)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "3vK8rL9eX1A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 429,
-    "title": "Hathi Maiya Bulaye (Chhathi Maiya Bulaye) (Sangeetanjali)",
-    "artist": "Vishal Mishra",
-    "youtubeId": "1eL8vK2xQ9A",
-    "category": "Modern"
-  },
-  {
-    "id": 430,
-    "title": "Suruj Dev Aarti Sonu Nigam (Dhun)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "8eK1xL9vQ2A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 431,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Parv Geet)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "9vL2eK1xQ8A",
-    "category": "Modern"
-  },
-  {
-    "id": 432,
-    "title": "Kop Bhale Khelihe Chhathi Maiya",
-    "artist": "Sharda Sinha",
-    "youtubeId": "2eK8vL1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 433,
-    "title": "Pujele Charan Tohar Dinanath",
-    "artist": "Pawan Singh",
-    "youtubeId": "7vL1eK2xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 434,
-    "title": "Nariyal Leke Ghate Chali",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "6eK2vL8xQ1A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 435,
-    "title": "Chhathi Ghate Aa Gaili Dhaniya (Pavitra Bhajan)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "4eL1vK9xQ2A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 436,
-    "title": "Kosiya Bhare Aai Aashish (Auspicious Geet)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "5eK9vL2xQ1A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 437,
-    "title": "Suni Chhathi Maiya Hamar Binti",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "3eL2vK8xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 438,
-    "title": "Lachke Kawan Kawan Kanch Bans (Maha Aarti)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "1eK8vL2xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 439,
-    "title": "Bagiya Me Bole Koyaliya (Sangeetanjali)",
-    "artist": "Anu Dubey",
-    "youtubeId": "8vL1eK9xQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 440,
-    "title": "Aawa Hey Suruj Baba Aragh Leli",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "2eK1vL8xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 441,
-    "title": "Aara Hilela Chhath Ghate (Parv Geet)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "7eL2vK1xQ8A",
-    "category": "Modern"
-  },
-  {
-    "id": 442,
-    "title": "Ugi Hey Dinanath Swati Mishra (Part 9)",
-    "artist": "Swati Mishra",
-    "youtubeId": "9eK1vL2xQ8A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 443,
-    "title": "Bahangi Lachkat Jaye Traditional (Vol. 9)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "4vL2eK1xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 444,
-    "title": "Chhath Maiya Dihali Lalanwa (Live Ghat Version)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "6eL1vK2xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 445,
-    "title": "Chhathi Ghate Dhamaka Ba (Pavitra Bhajan)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "5vL2eK9xQ1A",
-    "category": "Modern"
-  },
-  {
-    "id": 446,
-    "title": "Kosi Ke Diva Jagmag Jagmag (Auspicious Geet)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "3vL1eK8xQ2A",
-    "category": "Devotional"
-  },
-  {
-    "id": 447,
-    "title": "Suruj Dev Ke Pujanwa (Ghat Special)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "8eL2vK1xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 448,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Maha Aarti)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "1vL8eK2xQ9A",
-    "category": "Modern"
-  },
-  {
-    "id": 449,
-    "title": "Hey Chhathi Maiya Suni Pukar (Sangeetanjali)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "2vL1eK8xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 450,
-    "title": "Mathe Daura Uthai Ke Chhath Ghate (Dhun)",
-    "artist": "Pawan Singh",
-    "youtubeId": "7eK2vL1xQ8A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 451,
-    "title": "Saiya Ghate Chali Re Bihan",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "DG8F-csoRAQ",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 452,
-    "title": "Ugi Ugi Suruj Gosai Bhorwa (Vol. 10)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "knZ8b5YnQiY",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 453,
-    "title": "Suruj Dev Aragh Leli Hamar (Live Ghat Version)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "Eyq7vfxu4iA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 454,
-    "title": "Mahima Ba Apaar Chhathi Maiya",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "6e6Hp6R5SVU",
-    "category": "Devotional"
-  },
-  {
-    "id": 455,
-    "title": "Patna Se Supali Mangaiha Balam (Auspicious Geet)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "jRsXRee52xw",
-    "category": "Bahangi"
-  },
-  {
-    "id": 456,
-    "title": "Chhathi Maiya Ke Pavan Vrat (Ghat Special)",
-    "artist": "Anu Dubey",
-    "youtubeId": "fOVGz9WFymU",
-    "category": "Devotional"
-  },
-  {
-    "id": 457,
-    "title": "Chhath Maiya Hoi Sahay Bhakt Par (Maha Aarti)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "BKoD7bTLc2k",
-    "category": "Devotional"
-  },
-  {
-    "id": 458,
-    "title": "Chhath Pooja Special Aragh Ke Ber (Sangeetanjali)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "OrlnX9zM5-k",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 459,
-    "title": "Chhathi Maiya Bulaye Re Vratiya (Dhun)",
-    "artist": "Swati Mishra",
-    "youtubeId": "3xE8-cSXO8E",
-    "category": "Modern"
-  },
-  {
-    "id": 460,
-    "title": "Kosi Bhare Chali Piya Ji (Parv Geet)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "poJwkanrYAU",
-    "category": "Devotional"
-  },
-  {
-    "id": 461,
-    "title": "Chhathi Ghate Dhamaka Ba (Part 10)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "6diXoexNQ58",
-    "category": "Modern"
-  },
-  {
-    "id": 462,
-    "title": "Kosi Ke Diva Jagmag Jagmag (Vol. 10)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "FPDKM5NidYM",
-    "category": "Devotional"
-  },
-  {
-    "id": 463,
-    "title": "Sona Satorwa Ke Daura Sajali (Live Ghat Version)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "aLbXQ9VIxKI",
-    "category": "Bahangi"
-  },
-  {
-    "id": 464,
-    "title": "Ganga Maiya Arghya Jubin Nautiyal (Pavitra Bhajan)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "kfp_31_8d2Y",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 465,
-    "title": "Hey Chhathi Maiya Suni Pukar (Auspicious Geet)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "sIAgTGsgLHI",
-    "category": "Devotional"
-  },
-  {
-    "id": 466,
-    "title": "Bahangi Chhathi Mai Ke Leke Chali (Ghat Special)",
-    "artist": "Pawan Singh",
-    "youtubeId": "wD4ptJDaa8c",
-    "category": "Bahangi"
-  },
-  {
-    "id": 467,
-    "title": "Chhathi Ghate Aa Gaili Dhaniya (Maha Aarti)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "j9G3caThH98",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 468,
-    "title": "Maiya Chhathi Sunli Arajiya (Sangeetanjali)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "4zGf90U-K5k",
-    "category": "Devotional"
-  },
-  {
-    "id": 469,
-    "title": "Sujhata Chhathi Ghate Sab Manokamna (Dhun)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "E5r6y9mK2QI",
-    "category": "Devotional"
-  },
-  {
-    "id": 470,
-    "title": "Chhathi Maiya Ke Rang Badari (Parv Geet)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "1bBv78X1jLQ",
-    "category": "Modern"
-  },
-  {
-    "id": 471,
-    "title": "Maiya Mori Daya Rakhiha (Part 10)",
-    "artist": "Anu Dubey",
-    "youtubeId": "GvE8L6y9YvE",
-    "category": "Devotional"
-  },
-  {
-    "id": 472,
-    "title": "Jode Jode Falwa Chadhaib (Vol. 10)",
-    "artist": "Kalpana Patowary",
-    "youtubeId": "Zk91f4_5KxY",
-    "category": "Bahangi"
-  },
-  {
-    "id": 473,
-    "title": "Jode Jode Nariyal Leke Aayil Bani (Live Ghat Version)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "9mZkQ2xP1oA",
-    "category": "Bahangi"
-  },
-  {
-    "id": 474,
-    "title": "Chhathi Maiya Bulaye Re Vratiya (Pavitra Bhajan)",
-    "artist": "Swati Mishra",
-    "youtubeId": "k7wE9yQ2vLA",
-    "category": "Modern"
-  },
-  {
-    "id": 475,
-    "title": "Chhathi Maiya Ke Pujan Sab Mil Kare (Auspicious Geet)",
-    "artist": "Manoj Tiwari",
-    "youtubeId": "7eK8r4xL1vY",
-    "category": "Devotional"
-  },
-  {
-    "id": 476,
-    "title": "Chhathi Ghate Dhamaka Ba (Ghat Special)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "u9mY3xL2vLA",
-    "category": "Modern"
-  },
-  {
-    "id": 477,
-    "title": "Suruj Dev Ke Pujanwa (Maha Aarti)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "b6vL9eK1xQA",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 478,
-    "title": "Chhathi Maiya Ka Tyohaar Jubin Nautiyal (Sangeetanjali)",
-    "artist": "Jubin Nautiyal",
-    "youtubeId": "3vK8rL9eX1A",
-    "category": "Modern"
-  },
-  {
-    "id": 479,
-    "title": "Sona Satorwa Ke Supwa",
-    "artist": "Sharda Sinha",
-    "youtubeId": "1eL8vK2xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 480,
-    "title": "Jode Jode Narival Pawa",
-    "artist": "Pawan Singh",
-    "youtubeId": "8eK1xL9vQ2A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 481,
-    "title": "Pujab Chhathi Maiya Ke Charanwa (Part 10)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "9vL2eK1xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 482,
-    "title": "Kekra Khatir Karab Singaar Ghate (Vol. 10)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "2eK8vL1xQ9A",
-    "category": "Modern"
-  },
-  {
-    "id": 483,
-    "title": "Ganga Kinare Chhath Bhaari (Live Ghat Version)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "7vL1eK2xQ8A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 484,
-    "title": "Kelwa Ke Paat Par Falwa Sajai",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "6eK2vL8xQ1A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 485,
-    "title": "Saiya Ji Leke Daura Chali (Auspicious Geet)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "4eL1vK9xQ2A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 486,
-    "title": "Raur Mahima Apar Maiya Chhathi",
-    "artist": "Anu Dubey",
-    "youtubeId": "5eK9vL2xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 487,
-    "title": "Hey Chhathi Maiya Suni Arajiya Hamar (Maha Aarti)",
-    "artist": "Anuradha Paudwal",
-    "youtubeId": "3eL2vK8xQ1A",
-    "category": "Devotional"
-  },
-  {
-    "id": 488,
-    "title": "Suruj Baba Ke Aragh Dehab (Sangeetanjali)",
-    "artist": "Swati Mishra",
-    "youtubeId": "1eK8vL2xQ9A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 489,
-    "title": "Bahangi Lachkat Jaye Traditional (Dhun)",
-    "artist": "Maithili Thakur",
-    "youtubeId": "8vL1eK9xQ2A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 490,
-    "title": "Ghatwa Pe Chali Dhaniya (Parv Geet)",
-    "artist": "Arvind Akela Kallu",
-    "youtubeId": "2eK1vL8xQ9A",
-    "category": "Arghya / Sandhya Ghat"
-  },
-  {
-    "id": 491,
-    "title": "Kosi Ke Diva Jagmag Jagmag (Part 10)",
-    "artist": "Ritesh Pandey",
-    "youtubeId": "7eL2vK1xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 492,
-    "title": "Chhath Puja Special Gunjan Singh (Vol. 10)",
-    "artist": "Gunjan Singh",
-    "youtubeId": "9eK1vL2xQ8A",
-    "category": "Devotional"
-  },
-  {
-    "id": 493,
-    "title": "Chhathi Maiya Suni Vinti Sonu Nigam (Live Ghat Version)",
-    "artist": "Sonu Nigam",
-    "youtubeId": "4vL2eK1xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 494,
-    "title": "Bahangi Lachkat Jaye Hey Dinanath (Pavitra Bhajan)",
-    "artist": "Sharda Sinha",
-    "youtubeId": "6eL1vK2xQ8A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 495,
-    "title": "Arghya Ke Bera Bhaile Bihan",
-    "artist": "Pawan Singh",
-    "youtubeId": "5vL2eK9xQ1A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 496,
-    "title": "Arghya Ke Berwa Bhael Bihan (Ghat Special)",
-    "artist": "Khesari Lal Yadav",
-    "youtubeId": "3vL1eK8xQ2A",
-    "category": "Morning Surya"
-  },
-  {
-    "id": 497,
-    "title": "Bahangiya Lachkat Aave Ghate (Maha Aarti)",
-    "artist": "Pramod Premi Yadav",
-    "youtubeId": "8eL2vK1xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 498,
-    "title": "Bahangiya Dhani Mathe Leke (Sangeetanjali)",
-    "artist": "Aashish Yadav",
-    "youtubeId": "1vL8eK2xQ9A",
-    "category": "Bahangi"
-  },
-  {
-    "id": 499,
-    "title": "Suni Chhathi Maiya Hamar Binti (Dhun)",
-    "artist": "Anjali Bhardwaj",
-    "youtubeId": "2vL1eK8xQ9A",
-    "category": "Devotional"
-  },
-  {
-    "id": 500,
-    "title": "Shilpi Raj Ke Chhath Geet Dhamaka (Parv Geet)",
-    "artist": "Shilpi Raj",
-    "youtubeId": "7eK2vL1xQ8A",
-    "category": "Modern"
   }
 ]

@@ -1,0 +1,26 @@
+{
+  "name": "chhath-puja-music",
+  "version": "1.0.0",
+  "description": "Chhath Puja Sacred Devotional Music Player created by Uday Raj",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/udayraj7366/chhath-puja-music.git"
+  },
+  "keywords": [
+    "chhath-puja",
+    "devotional-music",
+    "sharda-sinha",
+    "pawan-singh",
+    "khesari-lal",
+    "anuradha-paudwal",
+    "uday-raj"
+  ],
+  "author": "Uday Raj",
+  "license": "MIT"
+}
